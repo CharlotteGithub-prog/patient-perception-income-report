@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This R project aims to analyze patient perceptions of healthcare in NHS Scotland using linear and multiple linear regression models. The project utilises biennial patient health and care experience data from the Scottish Health and Care Experience Survey 2020/21 linked to datazone level income rankings from the Scottish Index of Multiple Deprivation 2020.
+This R project aims to analyse patient perceptions of healthcare in NHS Scotland using linear and multiple linear regression models. The project utilises biennial patient health and care experience data from the Scottish Health and Care Experience Survey 2020/21 linked to datazone level income rankings from the Scottish Index of Multiple Deprivation 2020.
 
 ## Contributing
 

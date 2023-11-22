@@ -1,0 +1,647 @@
+﻿Provider PHIN ID,Provider,Site PHIN ID,Site,Sector,Private Episodes,Private Spells,NHS Episodes,NHS Spells
+PHIN-01U,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,PHIN-NET010,Northern Centre for Cancer Care,NHS PPU,*,*,"17,015","16,975"
+PHIN-39B,Abertawe Bro Morgannwg University Health Board,PHIN-BGE002,Bridgend Clinic,NHS PPU,,,,
+PHIN-97V,Centre for Surgery  ,PHIN-HRT044,Centre for Surgery,IND,20,20,,
+PHIN-97V,Centre for Surgery  ,PHIN-GRL244,Centre for Surgery,IND,60,60,,
+PHIN-35F,Luton And Dunstable University Hospital NHS Foundation Trust,PHIN-LUT001,Luton & Dunstable Hospital,NHS PPU,30,30,"32,780","32,740"
+PHIN-93N,Manchester University Hospitals NHS Foundation Trust,PHIN-MAN004,St Mary's Hospital,NHS PPU,*,*,"3,280","3,280"
+PHIN-53S,Aesthetic Beauty Centre,PHIN-SND030,Ashmore Consulting Room,IND,,,,
+PHIN-53S,Aesthetic Beauty Centre,PHIN-NET021,The Old Vicarage,IND,,,,
+PHIN-96T,Aesthetic Plastic Surgery LTD,PHIN-GRL314,Aesthetic Plastic Surgery Ltd,IND,,,,
+PHIN-16W,Belfast Health and Social Care Trust,PHIN-BFS002,Mater Infirmorum Hospital,NHS PPU,,,,
+PHIN-98C,Alder Hey Children's NHS Foundation Trust,PHIN-LIV005,Alder Hey Children's Hospital,NHS PPU,,,"22,480","22,310"
+PHIN-10Z,Alexandra Health Care Limited,PHIN-DBY004,Alexandra Private Hospital,IND,,,,
+PHIN-92C,Ambulatory Surgery International,PHIN-GRL304,One Welbeck ,IND,,,,
+PHIN-16W,Belfast Health and Social Care Trust,PHIN-BFS004,Royal Belfast Hospital for Sick Children,NHS PPU,,,,
+PHIN-60N,Bradford Teaching Hospitals NHS Foundation Trust,PHIN-BRD001,Bradford Royal Infirmary,NHS PPU,0,0,"22,340","22,255"
+PHIN-54J,Leeds Teaching Hospitals NHS Trust,PHIN-LDS001,Chapel Allerton Hospital,NHS PPU,25,25,"11,935","11,935"
+PHIN-54J,Leeds Teaching Hospitals NHS Trust,PHIN-LDS002,Leeds General Infirmary,NHS PPU,0,0,"31,700","31,610"
+PHIN-54J,Leeds Teaching Hospitals NHS Trust,PHIN-LDS003,St James's University Hospital,NHS PPU,20,20,"54,115","53,965"
+PHIN-99C,Liverpool University Hospitals NHS Foundation Trust,PHIN-LIV006,Broadgreen Hospital,NHS PPU,0,0,"6,825","6,815"
+PHIN-99C,Liverpool University Hospitals NHS Foundation Trust,PHIN-LIV007,Royal Liverpool University Hospital,NHS PPU,*,*,"45,125","45,065"
+PHIN-37Q,Pennine Acute Hospitals NHS Trust,PHIN-BUR001,Fairfield General Hospital,NHS PPU,15,*,"11,360","11,355"
+PHIN-37Q,Pennine Acute Hospitals NHS Trust,PHIN-MAN005,North Manchester General Hospital,NHS PPU,20,20,"12,110","12,105"
+PHIN-37Q,Pennine Acute Hospitals NHS Trust,PHIN-RCH001,Rochdale Infirmary,NHS PPU,*,*,"14,650","14,650"
+PHIN-37Q,Pennine Acute Hospitals NHS Trust,PHIN-OLD001,The Royal Oldham Hospital,NHS PPU,25,15,"13,275","13,225"
+PHIN-50P,Royal National Orthopaedic Hospital NHS Trust,PHIN-GRL025,Royal National Orthopaedic Hospital,NHS PPU,75,75,"10,160","10,160"
+PHIN-12G,Aspen Healthcare,PHIN-LDS031,Aspen - Nova Healthcare,IND,,,,
+PHIN-11Z,University Hospital Southampton NHS Foundation Trust,PHIN-HAM033,Lymington New Forest Hospital,NHS PPU,0,0,"2,015","2,015"
+PHIN-40L,University Hospitals Bristol NHS Foundation Trust,PHIN-BST002,Bristol Eye Hospital,NHS PPU,*,*,"4,745","4,745"
+PHIN-40L,University Hospitals Bristol NHS Foundation Trust,PHIN-BST021,St Michael's Hospital,NHS PPU,*,*,"3,060","2,915"
+PHIN-19W,Best Life Clinic,PHIN-STT017,Best Life Clinic,IND,65,65,,
+PHIN-46F,Northern Lincolnshire and Goole NHS Foundation Trust,PHIN-NLN001,Scunthorpe General Hospital,NHS PPU,10,10,"19,080","19,075"
+PHIN-39B,Abertawe Bro Morgannwg University Health Board,PHIN-BGE001,Princess of Wales Hospital,NHS PPU,,,,
+PHIN-92J,Aneurin Bevan University Health Board,PHIN-TOF007,The Grange University Hospital,NHS PPU,,,,
+PHIN-76O,Basildon and Thurrock University Hospitals NHS Foundation Trust ,PHIN-ESS043,Basildon University Hospital,NHS PPU,,,,
+PHIN-76O,Basildon and Thurrock University Hospitals NHS Foundation Trust ,PHIN-ESS006,Nash Basildon,NHS PPU,,,,
+PHIN-18R,Circle Health Group,PHIN-LAN005,Gisburne Park Hospital,IND,65,65,385,385
+PHIN-66W,Ramsay Health Care UK,PHIN-LAN037,Buckshaw Hospital ,IND,90,90,,
+PHIN-16O,Sandwell And West Birmingham Hospitals NHS Trust,PHIN-BIR010,Birmingham City Hospital,NHS PPU,25,25,"24,680","24,635"
+PHIN-16W,Belfast Health and Social Care Trust,PHIN-BFS003,Musgrave Park Hospital,NHS PPU,,,,
+PHIN-11Z,University Hospital Southampton NHS Foundation Trust,PHIN-STH001,Princess Anne Hospital,NHS PPU,*,*,"2,475","2,465"
+PHIN-11Z,University Hospital Southampton NHS Foundation Trust,PHIN-STH004,Southampton General Hospital,NHS PPU,170,145,"75,360","74,305"
+PHIN-05Y,Bella Vou Pantiles Clinic,PHIN-KEN078,The Bella Vou Pantiles Clinic,IND,,,,
+PHIN-34C,University Hospitals Birmingham NHS Foundation Trust,PHIN-SOL002,Solihull Hospital,NHS PPU,10,10,"37,715","37,715"
+PHIN-70B,University Hospitals of North Midlands NHS Trust,PHIN-STS034,County Hospital,NHS PPU,15,15,"24,475","24,470"
+PHIN-39B,Abertawe Bro Morgannwg University Health Board,PHIN-SWA002,Morriston Hospital,NHS PPU,,,,
+PHIN-39B,Abertawe Bro Morgannwg University Health Board,PHIN-NTL001,Neath Port Talbot Hospital,NHS PPU,,,,
+PHIN-92J,Aneurin Bevan University Health Board,PHIN-MON001,Nevill Hall Hospital,NHS PPU,*,*,,
+PHIN-92J,Aneurin Bevan University Health Board,PHIN-NWP001,Royal Gwent Hospital,NHS PPU,*,*,,
+PHIN-92J,Aneurin Bevan University Health Board,PHIN-NWP002,St Woolos Acute Hospital,NHS PPU,,,,
+PHIN-92J,Aneurin Bevan University Health Board,PHIN-CAY001,Ysbyty Ystrad Fawr,NHS PPU,,,,
+PHIN-56K,Birmingham Women's and Children's NHS Foundation Trust,PHIN-BIR005,Birmingham Children's Hospital,NHS PPU,,,"26,660","26,585"
+PHIN-37G,Blackpool Teaching Hospitals NHS Foundation Trust,PHIN-BPL002,Blackpool Victoria Hospital,NHS PPU,,,"47,405","47,405"
+PHIN-69F,Betsi Cadwaladr University Health Board,PHIN-CWY001,Abergele Hospital,NHS PPU,*,*,,
+PHIN-69F,Betsi Cadwaladr University Health Board,PHIN-CWY003,Llandudno General Hospital,NHS PPU,,,,
+PHIN-69F,Betsi Cadwaladr University Health Board,PHIN-GWN001,Ysbyty Gwynedd,NHS PPU,,,,
+PHIN-47A,Cardiff and Vale University Health Board,PHIN-VGL002,University Hospital Llandough,NHS PPU,*,*,,
+PHIN-92F,Cwm Taf University Health Board ,PHIN-MTY001,Prince Charles Hospital ,NHS PPU,,,,
+PHIN-92F,Cwm Taf University Health Board ,PHIN-RCT001,Royal Glamorgan Hospital ,NHS PPU,,,,
+PHIN-83O,Guy's and St Thomas' NHS Foundation Trust,PHIN-GRL011,Guy's Hospital,NHS PPU,15,15,"72,790","72,770"
+PHIN-68S,Buckinghamshire Healthcare NHS Trust,PHIN-BKM005,Stoke Mandeville Hospital,NHS PPU,,,"21,640","21,625"
+PHIN-68S,Buckinghamshire Healthcare NHS Trust,PHIN-BKM006,Wycombe Hospital,NHS PPU,,,"17,590","17,580"
+PHIN-07I,Hywel Dda University Health Board,PHIN-CGN001,Bronglais General Hospital,NHS PPU,,,,
+PHIN-71H,Calderdale and Huddersfield NHS Foundation Trust,PHIN-CLD002,Calderdale Royal Hospital,NHS PPU,,,"16,465","16,450"
+PHIN-71H,Calderdale and Huddersfield NHS Foundation Trust,PHIN-KIR002,Huddersfield Royal Infirmary,NHS PPU,,,"26,225","26,110"
+PHIN-07I,Hywel Dda University Health Board,PHIN-CMN002,Glangwilli General Hospital ,NHS PPU,,,,
+PHIN-07I,Hywel Dda University Health Board,PHIN-CMN003,Prince Philip Hospital,NHS PPU,,,,
+PHIN-07I,Hywel Dda University Health Board,PHIN-PEM001,Withybush General Hospital,NHS PPU,,,,
+PHIN-82T,Mid Yorkshire Hospitals NHS Trust,PHIN-KIR003,Dewsbury & District Hospital,NHS PPU,0,0,"20,225","20,210"
+PHIN-82T,Mid Yorkshire Hospitals NHS Trust,PHIN-WKF004,Pinderfields Hospital,NHS PPU,0,0,"18,040","17,945"
+PHIN-08M,The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,PHIN-BMH001,Royal Bournemouth Hospital,NHS PPU,160,160,"10,860","10,840"
+PHIN-04D,Chelsea and Westminster Hospital NHS Foundation Trust,PHIN-GRL034,West Middlesex University Hospital,NHS PPU,,,"16,720","16,715"
+PHIN-70B,University Hospitals of North Midlands NHS Trust,PHIN-STE002,Royal Stoke University Hospital,NHS PPU,80,80,"64,740","64,520"
+PHIN-18R,Circle Health Group,PHIN-BAS002,Circle Bath,IND,"1,765","1,765","2,860","2,860"
+PHIN-83O,Guy's and St Thomas' NHS Foundation Trust,PHIN-GRL246,Evelina London Children's Healthcare ,NHS PPU,220,220,,
+PHIN-83O,Guy's and St Thomas' NHS Foundation Trust,PHIN-GRL012,St Thomas' Hospital,NHS PPU,425,425,"69,340","69,215"
+PHIN-19E,King's College Hospital NHS Foundation Trust,PHIN-GRL084,Princess Royal University Hospital,NHS PPU,65,65,"31,410","31,325"
+PHIN-93N,Manchester University Hospitals NHS Foundation Trust,PHIN-MAN010,Manchester Royal Eye Hospital,NHS PPU,95,95,"5,915","5,910"
+PHIN-93N,Manchester University Hospitals NHS Foundation Trust,PHIN-MAN002,Manchester Royal Infirmary,NHS PPU,0,0,"97,715","97,620"
+PHIN-18R,Circle Health Group,PHIN-NGM003,Circle Nottingham NHS Treatment Centre,IND,,,,
+PHIN-93N,Manchester University Hospitals NHS Foundation Trust,PHIN-MAN003,Royal Manchester Children's Hospital,NHS PPU,0,0,"28,740","28,700"
+PHIN-93N,Manchester University Hospitals NHS Foundation Trust,PHIN-TRF001,Trafford General Hospital,NHS PPU,0,0,"11,940","11,940"
+PHIN-25C,Newmedica,PHIN-SOM024,Newmedica Frome,IND,10,10,,
+PHIN-25C,Newmedica,PHIN-GLS035,Newmedica Gloucester Brighouse,IND,535,535,,
+PHIN-46F,Northern Lincolnshire and Goole NHS Foundation Trust,PHIN-ERY001,Goole and District Hospital,NHS PPU,15,15,"4,925","4,925"
+PHIN-92H,Pall Mall Medical,PHIN-SHN002,Pall Mall Newton-le-Willows,IND,"1,070","1,070",,
+PHIN-72Q,Salford Royal NHS Foundation Trust,PHIN-SLF002,Salford Royal,NHS PPU,55,50,"57,195","56,960"
+PHIN-65X,The Stoneygate Eye Hospital,PHIN-LCE020,The Stoneygate Eye Hospital,IND,370,370,,
+PHIN-34C,University Hospitals Birmingham NHS Foundation Trust,PHIN-BIR007,Good Hope Hospital,NHS PPU,20,20,"27,235","27,235"
+PHIN-40L,University Hospitals Bristol NHS Foundation Trust,PHIN-BST003,Bristol Haematology and Oncology Centre,NHS PPU,15,15,"22,930","22,925"
+PHIN-13K,Wirral University Teaching Hospital NHS Foundation Trust,PHIN-WRL002,Clatterbridge Hospital,NHS PPU,10,10,"11,225","11,225"
+PHIN-39B,Abertawe Bro Morgannwg University Health Board,PHIN-SWA003,Singleton Hospital,NHS PPU,*,*,,
+PHIN-69F,Betsi Cadwaladr University Health Board,PHIN-WRX002,Wrexham Maelor Hospital,NHS PPU,*,*,,
+PHIN-99C,Liverpool University Hospitals NHS Foundation Trust,PHIN-LIV004,Aintree University Hospital,NHS PPU,55,55,"40,765","40,300"
+PHIN-25C,Newmedica,PHIN-MDB015,Newmedica Eye Hospital Middlesbrough,IND,115,115,,
+PHIN-92Z,Northern Health and Social Care Trust,PHIN-CLR001,Causeway Hospital,NHS PPU,*,*,,
+PHIN-41I,The New Foscote Private Hospital,PHIN-OXF007,The New Foscote Hospital,IND,890,890,250,250
+PHIN-01U,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,PHIN-NET001,Freeman Hospital,NHS PPU,80,80,"34,235","33,850"
+PHIN-01U,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,PHIN-NET002,The Royal Victoria Infirmary,NHS PPU,35,35,"50,375","50,235"
+PHIN-47A,Cardiff and Vale University Health Board,PHIN-CRF002,University Hospital of Wales,NHS PPU,10,10,,
+PHIN-16A,Croydon University Hospital,PHIN-GRL208,Croydon University Hospital,NHS PPU,0,0,"26,330","26,320"
+PHIN-84R,Dartford and Gravesham NHS Trust,PHIN-KEN011,Darent Valley Hospital,NHS PPU,20,20,"27,330","27,290"
+PHIN-50Q,Frimley Health NHS Foundation Trust,PHIN-SRY002,Frimley Park Hospital,NHS PPU,"1,085","1,080","37,875","37,815"
+PHIN-50Q,Frimley Health NHS Foundation Trust,PHIN-SLG001,Wexham Park Hospital,NHS PPU,200,200,"28,125","28,005"
+PHIN-95E,Kinvara Private Hospital Ltd,PHIN-ROT006,Kinvara Private Hospital,IND,215,215,,
+PHIN-22X,Milton Keynes University Hospital NHS Foundation Trust,PHIN-MIK001,Milton Keynes Hospital,NHS PPU,25,25,"27,185","27,120"
+PHIN-25C,Newmedica,PHIN-BST025,Newmedica Community Ophthalmology Service - Bristol,IND,915,915,,
+PHIN-25C,Newmedica,PHIN-GLS034,Newmedica Eye Health Clinic – Gloucester,IND,195,195,"1,870","1,870"
+PHIN-25C,Newmedica,PHIN-NEL005,Newmedica Eye Health Clinic - Grimsby,IND,125,125,,
+PHIN-25C,Newmedica,PHIN-LDS032,Newmedica Eye Health Clinic - Leeds,IND,90,90,,
+PHIN-25C,Newmedica,PHIN-SFK035,Newmedica Eye Hospital Ipswich,IND,460,460,,
+PHIN-92Z,Northern Health and Social Care Trust,PHIN-ANT001,Antrim Area Hospital,NHS PPU,,,,
+PHIN-92Z,Northern Health and Social Care Trust,PHIN-MFT001,Mid Ulster Hospital,NHS PPU,,,,
+PHIN-92Z,Northern Health and Social Care Trust,PHIN-NTA001,Whiteabbey Hospital,NHS PPU,,,,
+PHIN-22Y,Northumbria Healthcare NHS Foundation Trust,PHIN-NBL036,Alnwick Infirmary,NHS PPU,0,0,"2,975","2,975"
+PHIN-22Y,Northumbria Healthcare NHS Foundation Trust,PHIN-NBL037,Hexham General Hospital,NHS PPU,25,25,"8,405","8,405"
+PHIN-22Y,Northumbria Healthcare NHS Foundation Trust,PHIN-NTY012,North Tyneside General Hospital,NHS PPU,20,20,"18,215","18,215"
+PHIN-22Y,Northumbria Healthcare NHS Foundation Trust,PHIN-NBL023,Northumbria Specialist Emergency Care Hospital,NHS PPU,*,*,"12,125","12,070"
+PHIN-22Y,Northumbria Healthcare NHS Foundation Trust,PHIN-NBL038,Wansbeck General Hospital,NHS PPU,55,55,,
+PHIN-05E,Southport And Ormskirk Hospital NHS Trust,PHIN-LAN036,Ormskirk and District General Hospital,NHS PPU,10,10,"14,445","14,445"
+PHIN-05E,Southport And Ormskirk Hospital NHS Trust,PHIN-SFT001,Southport & Formby District General Hospital,NHS PPU,0,0,"1,445","1,425"
+PHIN-69U,The Royal Marsden NHS Foundation Trust,PHIN-GRL301,The Royal Marsden Private Care at Cavendish Square,NHS PPU,"1,190","1,190",,
+PHIN-40L,University Hospitals Bristol NHS Foundation Trust,PHIN-BST005,Bristol Royal Hospital for Children,NHS PPU,15,15,"11,785","11,740"
+PHIN-16W,Belfast Health and Social Care Trust,PHIN-BFS001,Belfast City Hospital,NHS PPU,20,20,,
+PHIN-77M,Cleveland Clinic,PHIN-GRL100,33 Grosvenor Place,IND,,,,
+PHIN-60U,Clinica London Limited,PHIN-GRL261,Clinica London,IND,,,,
+PHIN-60T,CosmeSurge Ltd,PHIN-GRL268,Cosmesurge Clinic,IND,,,,
+PHIN-62D,Countess Of Chester Hospital NHS Foundation Trust,PHIN-CHW002,Countess Of Chester Hospital,NHS PPU,,,"37,255","37,130"
+PHIN-16W,Belfast Health and Social Care Trust,PHIN-KEN010,Royal Victoria Hospital,NHS PPU,105,105,,
+PHIN-00R,Cumbria Partnership NHS Foundation Trust ,PHIN-CMA002,Cumberland Infirmary,NHS PPU,,,"16,835","16,805"
+PHIN-00R,Cumbria Partnership NHS Foundation Trust ,PHIN-CMA001,West Cumberland Hospital,NHS PPU,,,"10,960","10,960"
+PHIN-14Z,Harley Health Village,PHIN-GRL066,Harley Health Village,IND,"2,000","2,000",,
+PHIN-44Y,Curis Health Care,PHIN-SOL013,Joseph House ,IND,,,,
+PHIN-37J,Kingston Hospital NHS Foundation Trust,PHIN-SRY017,Kingston Hospital,NHS PPU,285,285,"28,960","28,945"
+PHIN-19M,Maidstone And Tunbridge Wells NHS Trust,PHIN-KEN001,The Maidstone Hospital,NHS PPU,35,30,"33,295","33,255"
+PHIN-46F,Northern Lincolnshire and Goole NHS Foundation Trust,PHIN-NEL001,"Diana, Princess of Wales Hospital",NHS PPU,20,20,"27,525","27,515"
+PHIN-41R,Dorset County Hospital NHS Foundation Trust,PHIN-DOR003,Dorset County Hospital,NHS PPU,,,"40,840","40,110"
+PHIN-76H,Dr Alexandra Chambers Medical and Aesthetic Practice ,PHIN-GRL115,Dr. Chambers Practice,IND,,,,
+PHIN-70X,Dr Glancey Clinics ,PHIN-GRL312,Dr Glancey Clinics ,IND,,,,
+PHIN-11X,East and North Hertfordshire NHS Trust,PHIN-HRT009,Lister Hospital,NHS PPU,,,"40,840","40,795"
+PHIN-11X,East and North Hertfordshire NHS Trust,PHIN-GRL060,Mount Vernon Cancer Centre,NHS PPU,,,"14,490","14,485"
+PHIN-11X,East and North Hertfordshire NHS Trust,PHIN-HRT010,Queen Elizabeth II Hospital,NHS PPU,,,"4,625","4,625"
+PHIN-48I,East Kent Hospitals University NHS Foundation Trust ,PHIN-KEN079,Kent and Canterbury Hospital,NHS PPU,,,"42,415","42,355"
+PHIN-48I,East Kent Hospitals University NHS Foundation Trust ,PHIN-KEN080,Queen Elizabeth The Queen Mother Hospital,NHS PPU,,,"17,965","17,655"
+PHIN-48I,East Kent Hospitals University NHS Foundation Trust ,PHIN-KEN081,William Harvey Hospital,NHS PPU,,,"19,385","19,255"
+PHIN-03S,Plymouth Hospitals NHS Trust,PHIN-PLY001,Derriford Hospital,NHS PPU,85,85,"52,160","51,795"
+PHIN-96D,Spencer Private Hospitals Ltd,PHIN-KEN013,Spencer Private Hospitals Ashford,IND,115,115,,
+PHIN-08J,East Suffolk and North Essex NHS Foundation Trust,PHIN-ESS008,Colchester General Hospital,NHS PPU,,,"32,310","32,245"
+PHIN-08J,East Suffolk and North Essex NHS Foundation Trust,PHIN-ESS009,Essex County Hospital,NHS PPU,,,,
+PHIN-08J,East Suffolk and North Essex NHS Foundation Trust,PHIN-SFK003,Ipswich Hospital,NHS PPU,,,"48,235","48,135"
+PHIN-85V,East Sussex Healthcare NHS Trust,PHIN-ESX002,Conquest Hospital,NHS PPU,,,"14,710","14,645"
+PHIN-85V,East Sussex Healthcare NHS Trust,PHIN-ESX003,Eastbourne District General Hospital,NHS PPU,,,"28,765","28,725"
+PHIN-71W,Edgbaston Wellness Medispa,PHIN-BIR051,Edgbaston Wellness Medispa,IND,,,,
+PHIN-24E,EF Medispa,PHIN-GRL256,EF Medispa Kensington,IND,,,,
+PHIN-01V,Elanic Clinic,PHIN-ABE005,Elanic - Aberdeen,IND,,,,
+PHIN-01V,Elanic Clinic,PHIN-EDH005,Elanic - Edinburgh,IND,,,,
+PHIN-01V,Elanic Clinic,PHIN-GLG008,Elanic - Glasgow,IND,,,,
+PHIN-01V,Elanic Clinic,PHIN-GRL270,Elanic - London,IND,,,,
+PHIN-28F,Epsom and St Helier University Hospitals NHS Trust,PHIN-SRY001,Epsom Hospital,NHS PPU,,,"14,825","14,790"
+PHIN-28F,Epsom and St Helier University Hospitals NHS Trust,PHIN-GRL007,Queen Mary's Hospital for Children,NHS PPU,,,,
+PHIN-28F,Epsom and St Helier University Hospitals NHS Trust,PHIN-GRL008,St Helier Hospital,NHS PPU,,,"21,900","21,710"
+PHIN-28F,Epsom and St Helier University Hospitals NHS Trust,PHIN-GRL009,Sutton Hospital,NHS PPU,,,,
+PHIN-34C,University Hospitals Birmingham NHS Foundation Trust,PHIN-BIR001,Queen Elizabeth Hospital,NHS PPU,35,35,"42,890","42,890"
+PHIN-69F,Betsi Cadwaladr University Health Board,PHIN-DEN001,Glan Clwyd Hospital,NHS PPU,45,45,,
+PHIN-22Z,Gloucestershire Hospitals NHS Foundation Trust,PHIN-GLS002,Gloucestershire Royal Hospital,NHS PPU,65,65,"23,000","22,895"
+PHIN-17C,Hillsborough Private Clinic,PHIN-LSB001,Hillsborough Private Clinic,IND,"1,250","1,250",,
+PHIN-29Q,Imperial College Healthcare NHS Trust,PHIN-GRL013,Charing Cross Hospital,NHS PPU,"1,020",975,"39,170","39,165"
+PHIN-29Q,Imperial College Healthcare NHS Trust,PHIN-GRL014,Hammersmith Hospital,NHS PPU,775,755,"30,600","30,595"
+PHIN-29Q,Imperial College Healthcare NHS Trust,PHIN-GRL015,Queen Charlotte's & Chelsea Hospital,NHS PPU,165,165,"4,455","4,455"
+PHIN-29Q,Imperial College Healthcare NHS Trust,PHIN-GRL016,St Mary's Hospital,NHS PPU,"2,610","2,555","15,345","15,335"
+PHIN-29Q,Imperial College Healthcare NHS Trust,PHIN-GRL017,Western Eye Hospital,NHS PPU,85,85,"3,000","3,000"
+PHIN-53C,Kettering General Hospital NHS Foundation Trust,PHIN-NTH004,Kettering General Hospital,NHS PPU,35,35,"34,910","34,750"
+PHIN-19E,King's College Hospital NHS Foundation Trust,PHIN-NTT007,King's College Hospital,NHS PPU,440,440,"58,005","57,600"
+PHIN-99O,Nottingham University Hospitals NHS Trust,PHIN-NGM002,Nottingham City Hospital,NHS PPU,75,75,"53,360","53,175"
+PHIN-83E,Optegra ,PHIN-BRD004,Optegra Eye Hospital Yorkshire,IND,150,150,,
+PHIN-33Q,Orthopaedics And Spine Specialist Hospital,PHIN-PTE003,Orthopaedics and Spine Specialist Hospital,IND,75,75,,
+PHIN-19B,Practice Plus Group,PHIN-RCH007,North West Ophthalmology Practice Plus Group,IND,35,35,,
+PHIN-19B,Practice Plus Group,PHIN-POR005,St Mary's NHS Treatment Centre,IND,130,130,"5,385","5,385"
+PHIN-59H,Spire Healthcare,PHIN-SHF005,Claremont Private Hospital,IND,"2,920","2,920","2,570","2,570"
+PHIN-56Q,The Fitzwilliam Clinic,PHIN-BFS006,The Fitzwilliam Clinic,IND,430,430,,
+PHIN-86T,The Royal Wolverhampton NHS Trust,PHIN-STS037,Cannock Chase Hospital,NHS PPU,*,*,"16,255","16,255"
+PHIN-86T,The Royal Wolverhampton NHS Trust,PHIN-WLV001,New Cross Hospital,NHS PPU,65,50,"38,550","38,550"
+PHIN-86T,The Royal Wolverhampton NHS Trust,PHIN-WLV005,West Park Rehabilitation Hospital,NHS PPU,*,*,,
+PHIN-40L,University Hospitals Bristol NHS Foundation Trust,PHIN-BST006,Bristol Royal Infirmary,NHS PPU,30,25,"15,170","15,050"
+PHIN-13K,Wirral University Teaching Hospital NHS Foundation Trust,PHIN-WRL001,Arrowe Park Hospital,NHS PPU,35,35,"36,960","36,900"
+PHIN-92V,152 Harley Street,PHIN-GRL104,152 Harley Street,IND,"1,095","1,095",,
+PHIN-06Z,Genesis Care,PHIN-ESS015,Specialist Care Centre - Chelmsford,IND,,,,
+PHIN-28V,Airedale NHS Foundation Trust,PHIN-BRD003,Airedale General Hospital,NHS PPU,10,10,"29,445","29,430"
+PHIN-92C,Ambulatory Surgery International,PHIN-GRL284,OneWelbeck Digestive Health,IND,"5,315","5,315",,
+PHIN-06M,Great Ormond Street Hospital For Children NHS Foundation Trust,PHIN-GRL010,Great Ormond Street Hospital,NHS PPU,,,"33,755","33,685"
+PHIN-92C,Ambulatory Surgery International,PHIN-GRL288,OneWelbeck Heart Health,IND,250,250,,
+PHIN-92C,Ambulatory Surgery International,PHIN-GRL306,OneWelbeck Imaging & Diagnostics,IND,,,,
+PHIN-92C,Ambulatory Surgery International,PHIN-GRL305,OneWelbeck Surgery Centre,IND,"2,360","2,360",,
+PHIN-89B,ASET Hospital,PHIN-KWL006,ASET Hospital,IND,365,365,,
+PHIN-20P,Hair Science Institute UK Ltd,PHIN-GRL302,Hair Science Institute UK Ltd,IND,,,,
+PHIN-42I,Hampshire Hospitals NHS Foundation Trust,PHIN-HAM032,Andover War Memorial Hospital,NHS PPU,,,"2,960","2,960"
+PHIN-42I,Hampshire Hospitals NHS Foundation Trust,PHIN-HAM001,Basingstoke And North Hampshire Hospital,NHS PPU,,,"22,965","22,925"
+PHIN-42I,Hampshire Hospitals NHS Foundation Trust,PHIN-HAM002,Royal Hampshire County Hospital,NHS PPU,,,"14,610","14,590"
+PHIN-12G,Aspen Healthcare,PHIN-GRL097,Aspen - Highgate Private Hospital,IND,"2,400","2,400","1,470","1,470"
+PHIN-14Z,Harley Health Village,PHIN-BST009,Linia Bristol,IND,,,,
+PHIN-12G,Aspen Healthcare,PHIN-SOL011,Aspen - Midland Eye,IND,"1,015","1,015","1,620","1,620"
+PHIN-71M,Harley Street Specialist Hospital,PHIN-GRL091,Harley Street Specialist Hospital,IND,,,,
+PHIN-11J,Harrogate And District NHS Foundation Trust,PHIN-NYK001,Harrogate District Hospital,NHS PPU,,,"27,385","27,380"
+PHIN-12G,Aspen Healthcare,PHIN-GRL035,Aspen - Parkside Hospital Wimbledon,IND,"9,095","9,095","1,205","1,205"
+PHIN-12G,Aspen Healthcare,PHIN-EDH004,Aspen - The Edinburgh Clinic,IND,"1,790","1,790",,
+PHIN-12G,Aspen Healthcare,PHIN-ESS002,Aspen - The Holly Private Hospital,IND,"5,385","5,385","5,670","5,670"
+PHIN-89P,Barts Health NHS Trust,PHIN-GRL082,Newham University Hospital,NHS PPU,0,0,"8,370","8,370"
+PHIN-89P,Barts Health NHS Trust,PHIN-GRL003,St Bartholomew's Hospital,NHS PPU,80,80,"43,745","43,695"
+PHIN-89P,Barts Health NHS Trust,PHIN-GRL005,The Royal London Hospital,NHS PPU,0,0,"31,920","31,700"
+PHIN-89P,Barts Health NHS Trust,PHIN-GRL081,Whipps Cross University Hospital,NHS PPU,0,0,"16,995","16,920"
+PHIN-63N,Bedford Hospital NHS Trust,PHIN-BDF002,Bedford Hospital South Wing,NHS PPU,350,350,"24,730","24,655"
+PHIN-10L,Benenden Hospital Trust,PHIN-KEN015,Benenden Hospital,IND,"7,565","7,565","1,220","1,220"
+PHIN-26C,Bespoke Healthcare,PHIN-LAN009,Greater Lancashire Hospital,IND,40,40,,
+PHIN-42C,Brighton And Sussex University Hospitals NHS Trust,PHIN-WSX001,Hurstwood Park Neurosciences Centre,NHS PPU,15,15,"1,565","1,560"
+PHIN-42C,Brighton And Sussex University Hospitals NHS Trust,PHIN-WSX002,Princess Royal Hospital,NHS PPU,35,25,"7,415","7,345"
+PHIN-42C,Brighton And Sussex University Hospitals NHS Trust,PHIN-BNH001,Royal Alexandra Children's Hospital,NHS PPU,105,105,"2,435","2,435"
+PHIN-42C,Brighton And Sussex University Hospitals NHS Trust,PHIN-BNH002,Royal Sussex County Hospital,NHS PPU,250,230,"17,745","17,510"
+PHIN-42C,Brighton And Sussex University Hospitals NHS Trust,PHIN-BNH003,Sussex Eye Hospital,NHS PPU,90,90,"1,830","1,830"
+PHIN-42C,Brighton And Sussex University Hospitals NHS Trust,PHIN-WSX003,Sussex Orthopaedic NHS Treatment Centre,NHS PPU,25,25,"2,855","2,850"
+PHIN-06U,Bupa Cromwell ,PHIN-GRL001,Cromwell Hospital,IND,"9,405","9,395",305,305
+PHIN-71F,Homerton University Hospital NHS Foundation Trust,PHIN-GRL073,Homerton University Hospital,NHS PPU,,,"28,205","27,890"
+PHIN-85K,Cambridge University Hospitals NHS Foundation Trust,PHIN-CAM001,Addenbrooke's Hospital,NHS PPU,675,605,"34,575","34,465"
+PHIN-04D,Chelsea and Westminster Hospital NHS Foundation Trust,PHIN-GRL006,Chelsea & Westminster Hospital,NHS PPU,"1,390","1,150","27,020","26,965"
+PHIN-18R,Circle Health Group,PHIN-ABE001,Albyn Hospital,IND,"6,250","6,250",,
+PHIN-18R,Circle Health Group,PHIN-BAS001,Bath Clinic,IND,"2,440","2,440","1,845","1,845"
+PHIN-18R,Circle Health Group,PHIN-GRL036,Bishops Wood Hospital,IND,"2,905","2,905",850,850
+PHIN-18R,Circle Health Group,PHIN-COV002,BMI The Meriden Hospital,IND,"2,675","2,675","4,080","4,080"
+PHIN-18R,Circle Health Group,PHIN-SAY001,Carrick Glen Hospital,IND,,,,
+PHIN-18R,Circle Health Group,PHIN-GRL038,Chelsfield Park Hospital,IND,"3,355","3,355","1,890","1,890"
+PHIN-18R,Circle Health Group,PHIN-RDG002,Circle Reading Hospital,IND,"3,880","3,880","3,540","3,540"
+PHIN-18R,Circle Health Group,PHIN-WSX007,Goring Hall Hospital,IND,"2,925","2,925","1,800","1,800"
+PHIN-18R,Circle Health Group,PHIN-GRL040,Hendon Hospital,IND,830,830,"1,255","1,255"
+PHIN-18R,Circle Health Group,PHIN-STG001,King's Park Hospital,IND,"2,215","2,215",,
+PHIN-18R,Circle Health Group,PHIN-SRY007,Mount Alvernia Hospital,IND,"5,065","5,065",500,500
+PHIN-18R,Circle Health Group,PHIN-GLG001,Ross Hall Hospital,IND,"12,780","12,780",,
+PHIN-23M,Isle of Wight NHS Trust,PHIN-IOW001,"St Mary's Hospital, Isle of Wight",NHS PPU,,,"17,330","17,300"
+PHIN-81A,James Paget University Hospitals NHS Foundation Trust,PHIN-NFK001,James Paget Hospital,NHS PPU,,,"55,840","55,770"
+PHIN-18R,Circle Health Group,PHIN-HAM004,Sarum Road Hospital,IND,"2,195","2,195",660,660
+PHIN-18R,Circle Health Group,PHIN-GRL043,Shirley Oaks Hospital,IND,"2,670","2,670","2,480","2,480"
+PHIN-18R,Circle Health Group,PHIN-SOS001,Southend Private hospital,IND,685,685,"2,220","2,220"
+PHIN-18R,Circle Health Group,PHIN-SFK001,St Edmunds Hospital,IND,"1,625","1,625",940,940
+PHIN-18R,Circle Health Group,PHIN-SKP001,The Alexandra Hospital,IND,"9,880","9,880","4,110","4,110"
+PHIN-19E,King's College Hospital NHS Foundation Trust,PHIN-GRL103,Orpington Hospital,NHS PPU,,,"1,910","1,910"
+PHIN-18R,Circle Health Group,PHIN-BBD001,The Beardwood Hospital,IND,"1,395","1,395","5,670","5,670"
+PHIN-98S,Kingsbridge Private Hospital,PHIN-BFS005,Kingsbridge Private Hospital - Belfast,IND,,,,
+PHIN-18R,Circle Health Group,PHIN-BOL001,The Beaumont Hospital,IND,"1,300","1,300","3,500","3,500"
+PHIN-18R,Circle Health Group,PHIN-GRL037,The Blackheath Hospital,IND,"5,320","5,320","2,465","2,465"
+PHIN-81C,La Belle Forme Ltd (PHIN-81C),PHIN-GLG009,La Belle Forme Ltd,IND,,,,
+PHIN-62Y,Lancashire Teaching Hospitals NHS Foundation Trust,PHIN-LAN035,Chorley and South Ribble Hospital,NHS PPU,,,,
+PHIN-62Y,Lancashire Teaching Hospitals NHS Foundation Trust,PHIN-LAN001,Royal Preston Hospital,NHS PPU,,,"110,495","110,250"
+PHIN-26B,Lara Clinic Ltd,PHIN-GRL303,Lara Clinic Ltd,IND,,,,
+PHIN-18R,Circle Health Group,PHIN-GRL045,The Cavell Hospital,IND,"2,210","2,210","2,245","2,245"
+PHIN-18R,Circle Health Group,PHIN-KEN003,The Chaucer Hospital,IND,"3,270","3,270","1,995","1,995"
+PHIN-18R,Circle Health Group,PHIN-BKM001,The Chiltern Hospital,IND,"4,435","4,435","1,420","1,420"
+PHIN-18R,Circle Health Group,PHIN-GRL039,The Clementine Churchill Hospital,IND,"5,730","5,730","3,210","3,210"
+PHIN-18R,Circle Health Group,PHIN-WOR001,The Droitwich Spa Hospital,IND,"1,725","1,725","3,955","3,955"
+PHIN-18R,Circle Health Group,PHIN-NYK004,The Duchy Hospital,IND,"2,040","2,040",905,905
+PHIN-18R,Circle Health Group,PHIN-BIR003,The Edgbaston Hospital,IND,825,825,"1,305","1,305"
+PHIN-18R,Circle Health Group,PHIN-HAM003,The Hampshire Clinic,IND,"5,345","5,345","1,835","1,835"
+PHIN-18R,Circle Health Group,PHIN-POL002,The Harbour Hospital,IND,"2,195","2,195",310,310
+PHIN-18R,Circle Health Group,PHIN-RCH002,The Highfield Hospital,IND,"1,575","1,575","3,710","3,710"
+PHIN-18R,Circle Health Group,PHIN-KIR001,The Huddersfield Hospital,IND,475,475,"2,090","2,090"
+PHIN-18R,Circle Health Group,PHIN-GRL041,The King's Oak Hospital,IND,"2,145","2,145","1,340","1,340"
+PHIN-18R,Circle Health Group,PHIN-LAN004,The Lancaster Hospital,IND,825,825,940,940
+PHIN-18R,Circle Health Group,PHIN-LIN002,The Lincoln Hospital,IND,"1,520","1,520","1,620","1,620"
+PHIN-18R,Circle Health Group,PHIN-GRL042,The London Independent Hospital,IND,"3,045","3,045","4,900","4,900"
+PHIN-18R,Circle Health Group,PHIN-BDF001,The Manor Hospital,IND,825,825,685,685
+PHIN-56E,Manchester Private Hospital,PHIN-SLF008,Manchester Private Hospital,IND,,,,
+PHIN-93N,Manchester University Hospitals NHS Foundation Trust,PHIN-MAN001,Manchester Centre for Vision,NHS PPU,,,,
+PHIN-18R,Circle Health Group,PHIN-NTT001,The Park Hospital,IND,"4,605","4,605","5,435","5,435"
+PHIN-18R,Circle Health Group,PHIN-WNM002,The Princess Margaret Hospital,IND,"6,295","6,295",815,815
+PHIN-18R,Circle Health Group,PHIN-BIR002,The Priory Hospital,IND,"5,510","5,510","1,075","1,075"
+PHIN-18R,Circle Health Group,PHIN-SWD002,The Ridgeway Hospital,IND,"4,630","4,630","1,810","1,810"
+PHIN-18R,Circle Health Group,PHIN-SRY006,The Runnymede Hospital,IND,"3,150","3,150",535,535
+PHIN-37U,Mid Essex Hospital Services NHS Trust,PHIN-ESS011,Broomfield Hospital,NHS PPU,,,"41,040","40,815"
+PHIN-18R,Circle Health Group,PHIN-MIK002,The Saxon Clinic,IND,"2,510","2,510",995,995
+PHIN-82T,Mid Yorkshire Hospitals NHS Trust,PHIN-WKF005,Newmedica Wakefield,IND,,,,
+PHIN-18R,Circle Health Group,PHIN-BKM002,The Shelburne Hospital,IND,"1,015","1,015",140,140
+PHIN-18R,Circle Health Group,PHIN-GRL044,The Sloane Hospital,IND,"2,425","2,425","1,280","1,280"
+PHIN-23Z,Minor Ops Ltd,PHIN-SND050,My Eye Clinic (Sunderland Eye Infirmary),IND,,,,
+PHIN-23Z,Minor Ops Ltd,PHIN-NET030,"My Health Clinic (Gosforth, Newcastle)",IND,,,,
+PHIN-18R,Circle Health Group,PHIN-DOR002,The Winterbourne Hospital,IND,"2,590","2,590",800,800
+PHIN-41Z,MYA,PHIN-GRL078,MYA Fitzroy Hospital,IND,,,,
+PHIN-18R,Circle Health Group,PHIN-SHF006,Thornbury Hospital,IND,"3,030","3,030","2,180","2,180"
+PHIN-18R,Circle Health Group,PHIN-NTH002,Three Shires Hospital,IND,"2,795","2,795","3,900","3,900"
+PHIN-25C,Newmedica,PHIN-DBY024,Newmedica Barlborough Eye Health Clinic & Surgical Centre,IND,,,,
+PHIN-18R,Circle Health Group,PHIN-CMN001,Werndale Hospital,IND,"2,480","2,480",,
+PHIN-18R,Circle Health Group,PHIN-DAL001,Woodlands Hospital,IND,"2,410","2,410","4,815","4,815"
+PHIN-44Y,Curis Health Care,PHIN-GRL278,Hammersmith Private Hospital,IND,"1,635","1,635",,
+PHIN-16G,East Lancashire Hospitals NHS Trust,PHIN-LAN034,Burnley General Hospital,NHS PPU,60,60,"42,435","42,415"
+PHIN-16G,East Lancashire Hospitals NHS Trust,PHIN-BBD002,Royal Blackburn Hospital,NHS PPU,35,35,"30,245","30,170"
+PHIN-09S,Epsomedical,PHIN-SRY004,Cobham Day Surgery,IND,105,105,"2,665","2,665"
+PHIN-09S,Epsomedical,PHIN-SRY005,Epsom Day Surgery,IND,45,45,"2,025","2,025"
+PHIN-09S,Epsomedical,PHIN-SRY023,Epsom Day Surgery at Ebbisham,IND,0,0,15,15
+PHIN-25C,Newmedica,PHIN-NFK034,Newmedica Norwich Eye Health Clinic & Surgical Centre,IND,,,,
+PHIN-25C,Newmedica,PHIN-NFK035,Newmedica Norwich Eye Health Clinic & Surgical Centre,IND,,,,
+PHIN-25C,Newmedica,PHIN-SHR028,Newmedica Shrewsbury Eye Health Clinic & Surgical Centre,IND,,,,
+PHIN-25C,Newmedica,PHIN-WKF006,Newmedica Wakefield Eye Health Clinic & Surgical Centre,IND,,,,
+PHIN-32O,NHS Highland,PHIN-HLD001,Raigmore Hospital,NHS PPU,,,,
+PHIN-55P,NHS Lothian,PHIN-EDH002,Royal Infirmary Of Edinburgh NHS Trust,NHS PPU,,,,
+PHIN-55P,NHS Lothian,PHIN-EDH003,Western General Hospital,NHS PPU,,,,
+PHIN-09K,FACEmed,PHIN-ESS060,FACEmed Cosmetic Medical & Dental Centre,IND,50,50,,
+PHIN-58L,Fairfield Independent Hospital,PHIN-SHN003,Fairfield Independent Hospital,IND,"1,185","1,185","2,375","2,375"
+PHIN-78P,North Bristol NHS Trust,PHIN-SGC001,Frenchay Hospital,NHS PPU,,,,
+PHIN-78P,North Bristol NHS Trust,PHIN-BST001,Southmead Hospital,NHS PPU,,,"52,990","52,900"
+PHIN-05H,North Middlesex University Hospital NHS Trust,PHIN-GRL061,North Middlesex University Hospital,NHS PPU,,,"28,190","28,135"
+PHIN-64U,North Tees and Hartlepool NHS Foundation Trust,PHIN-HPL001,University Hospital of Hartlepool,NHS PPU,,,"1,905","1,905"
+PHIN-64U,North Tees and Hartlepool NHS Foundation Trust,PHIN-STT002,University Hospital of North Tees,NHS PPU,,,"31,445","31,360"
+PHIN-99S,North West Anglia NHS Foundation Trust,PHIN-CAM005,Hinchingbrooke Hospital,NHS PPU,,,"17,130","17,105"
+PHIN-99S,North West Anglia NHS Foundation Trust,PHIN-PTE002,Peterborough City Hospital,NHS PPU,,,"28,600","28,525"
+PHIN-99S,North West Anglia NHS Foundation Trust,PHIN-CAM007,The Huntingdon NHS Treatment Centre,NHS PPU,,,,
+PHIN-49N,North West Independent Hospital,PHIN-LMV001,North West Independent Hospital,IND,,,,
+PHIN-59D,Northampton General Hospital NHS Trust,PHIN-NTH001,Northampton General Hospital,NHS PPU,,,"40,900","40,780"
+PHIN-20Y,Northern Devon Healthcare NHS Trust,PHIN-DEV002,North Devon District Hospital,NHS PPU,,,"21,450","21,380"
+PHIN-85I,First Trust Hospital,PHIN-LAN008,First Trust Hospital,IND,"1,520","1,520",,
+PHIN-82B,Fortius Clinic,PHIN-GRL063,Fortius Clinic,IND,"3,395","3,395",,
+PHIN-93M,Gateshead Health NHS Foundation Trust,PHIN-GAT002,Queen Elizabeth Hospital,NHS PPU,*,*,"29,380","29,295"
+PHIN-06Z,Genesis Care,PHIN-STS046,Genesis Care Birmingham,IND,170,170,,
+PHIN-06Z,Genesis Care,PHIN-ESS050,Genesis Care Chelmsford,IND,230,230,,
+PHIN-06Z,Genesis Care,PHIN-HRT043,Genesis Care Elstree,IND,270,270,,
+PHIN-06Z,Genesis Care,PHIN-SRY059,Genesis Care Guildford,IND,240,240,,
+PHIN-06Z,Genesis Care,PHIN-GRL300,Genesis Care London,IND,240,240,,
+PHIN-06Z,Genesis Care,PHIN-KEN091,Genesis Care Maidstone,IND,205,205,,
+PHIN-06Z,Genesis Care,PHIN-MIK014,Genesis Care Milton Keynes,IND,105,105,,
+PHIN-06Z,Genesis Care,PHIN-SFK031,Genesis Care Newmarket,IND,170,170,,
+PHIN-06Z,Genesis Care,PHIN-NTT027,Genesis Care Nottingham,IND,155,155,,
+PHIN-06Z,Genesis Care,PHIN-OXF036,Genesis Care Oxford,IND,435,435,,
+PHIN-06Z,Genesis Care,PHIN-HAM039,Genesis Care Portsmouth,IND,110,110,,
+PHIN-06Z,Genesis Care,PHIN-STH022,Genesis Care Southampton,IND,150,150,,
+PHIN-06Z,Genesis Care,PHIN-WNM012,Genesis Care Windsor,IND,250,250,,
+PHIN-06Z,Genesis Care,PHIN-SGC004,GenesisCare Bristol,IND,150,150,,
+PHIN-22Z,Gloucestershire Hospitals NHS Foundation Trust,PHIN-GLS001,Cheltenham General Hospital,NHS PPU,500,485,"29,470","29,420"
+PHIN-10J,Great Western Hospitals NHS Foundation Trust,PHIN-SWD001,The Great Western Hospital,NHS PPU,480,480,"37,775","37,715"
+PHIN-91B,Harley Street Hospital Limited,PHIN-GRL274,Harley Street Hospital,IND,"1,715","1,715",,
+PHIN-80W,HCA International,PHIN-GRL054,Harley Street Clinic,IND,"6,560","6,560",,
+PHIN-80W,HCA International,PHIN-GRL055,HCA Healthcare UK at University College Hospital,IND,"4,350","4,350",,
+PHIN-80W,HCA International,PHIN-GRL263,Leader of Oncology Care at 95 Harley Street,IND,"6,945","6,945",,
+PHIN-80W,HCA International,PHIN-GRL265,Leaders of Oncology Care at London Bridge Hospital,IND,"3,470","3,470",,
+PHIN-80W,HCA International,PHIN-GRL252,Leaders of Oncology Care at Sydney Street,IND,585,585,,
+PHIN-80W,HCA International,PHIN-MAN023,Leaders of Oncology Care at The Christie Private Care,IND,"3,530","3,530",,
+PHIN-80W,HCA International,PHIN-GRL264,Leaders of Oncology Centre at The Platinum Medical Centre,IND,"1,440","1,440",,
+PHIN-80W,HCA International,PHIN-GRL051,Lister Hospital,IND,"7,260","7,260",,
+PHIN-80W,HCA International,PHIN-GRL053,London Bridge Hospital,IND,"13,480","13,480",,
+PHIN-80W,HCA International,PHIN-GRL052,Portland Hospital,IND,"8,165","8,165",*,*
+PHIN-80W,HCA International,PHIN-GRL049,Princess Grace Hospital,IND,"8,755","8,755",,
+PHIN-80W,HCA International,PHIN-MAN006,The Christie Private Care,IND,"1,980","1,980",,
+PHIN-80W,HCA International,PHIN-GRL050,The Wellington Hospital,IND,"9,175","9,175",,
+PHIN-80W,HCA International,PHIN-CHE003,The Wilmslow Hospital,IND,"2,350","2,350",,
+PHIN-44Z,Healthcare Management Trust,PHIN-SWA001,Sancta Maria Hospital,IND,"2,870","2,870",,
+PHIN-44Z,Healthcare Management Trust,PHIN-NEL002,St Hugh's Hospital,IND,900,900,,
+PHIN-51X,Horder Healthcare,PHIN-ESX001,The Horder Centre,IND,770,770,"3,035","3,035"
+PHIN-51X,Horder Healthcare,PHIN-WSX012,The Mclndoe Centre,IND,"1,665","1,665","1,085","1,085"
+PHIN-47Y,Hospital Of St John And St Elizabeth,PHIN-GRL089,Hospital of St John & St Elizabeth,IND,"6,670","6,605",110,110
+PHIN-16I,Hull and East Yorkshire Hospitals NHS Trust,PHIN-ERY003,Castle Hill Hospital,NHS PPU,40,40,"45,155","45,135"
+PHIN-16I,Hull and East Yorkshire Hospitals NHS Trust,PHIN-KHL001,Hull Royal Infirmary,NHS PPU,15,15,"28,665","28,600"
+PHIN-77Y,Kat & Co Aesthetics (PHIN-77Y),PHIN-BIR050,Kat & Co Aesthetics,IND,725,725,,
+PHIN-62A,KIMS Hospital,PHIN-KEN016,KIMS Hospital,IND,"4,745","4,745","3,830","3,830"
+PHIN-32Y,King Edward VII's Hospital,PHIN-GRL090,King Edward VII's Hospital,IND,"5,205","5,205",,
+PHIN-83X,Liverpool Heart and Chest Hospital NHS Foundation Trust,PHIN-LIV001,Liverpool Heart and Chest Hospital,NHS PPU,280,270,"7,245","7,240"
+PHIN-76X,London North West University Healthcare NHS Trust,PHIN-GRL085,Central Middlesex Hospital,NHS PPU,85,85,"8,820","8,815"
+PHIN-35M,OCL Ltd,PHIN-GRL277,Ophthalmic Consultants of London,IND,,,,
+PHIN-30G,One Health Medical Group,PHIN-GRL251,London Hammersmith Hospital One Health,IND,,,,
+PHIN-76X,London North West University Healthcare NHS Trust,PHIN-GRL242,Ealing Hospital,NHS PPU,*,*,"5,110","5,095"
+PHIN-76X,London North West University Healthcare NHS Trust,PHIN-GRL021,Northwick Park Hospital,NHS PPU,145,145,"22,635","22,545"
+PHIN-76X,London North West University Healthcare NHS Trust,PHIN-GRL071,St Mark's Hospital,NHS PPU,155,155,"13,455","13,450"
+PHIN-12O,London Welbeck Hospital,PHIN-GRL096,The London Welbeck Hospital,IND,"1,855","1,855",,
+PHIN-19M,Maidstone And Tunbridge Wells NHS Trust,PHIN-KEN002,Tunbridge Wells Hospital,NHS PPU,340,335,"26,630","26,565"
+PHIN-15J,Manchester Eye and Cosmetic Clinic Limited,PHIN-MAN020,Face & Eye Clinic,IND,240,240,,
+PHIN-57U,Moorfields Eye Hospital NHS Foundation Trust,PHIN-GRL019,Moorfields Eye Hospital,NHS PPU,"4,790","4,790","13,490","13,490"
+PHIN-83E,Optegra ,PHIN-GRL120,Optegra Eye Hospital North London,IND,,,,
+PHIN-97I,Natural Look Clinic,PHIN-DNC003,Natural Look Clinic,IND,90,90,,
+PHIN-97Z,New Victoria Hospital,PHIN-SRY022,New Victoria Hospital,IND,"5,245","5,245",,
+PHIN-83E,Optegra ,PHIN-LDS011,Optegra Leeds Laser Centre,IND,,,,
+PHIN-69Y,Norfolk And Norwich University Hospitals NHS Foundation Trust,PHIN-NFK033,Cromer Hospital,NHS PPU,0,0,"10,685","10,685"
+PHIN-69Y,Norfolk And Norwich University Hospitals NHS Foundation Trust,PHIN-NFK002,Norfolk and Norwich University Hospital,NHS PPU,315,310,"80,325","80,050"
+PHIN-62E,Oxford University Hospitals NHS Foundation Trust,PHIN-OXF001,Churchill Hospital,NHS PPU,,,"17,520","17,480"
+PHIN-62E,Oxford University Hospitals NHS Foundation Trust,PHIN-OXF002,Horton General Hospital,NHS PPU,,,"9,750","9,745"
+PHIN-62E,Oxford University Hospitals NHS Foundation Trust,PHIN-OXF003,John Radcliffe Hospital,NHS PPU,,,"42,950","42,865"
+PHIN-62E,Oxford University Hospitals NHS Foundation Trust,PHIN-OXF004,Nuffield Orthopaedic Centre,NHS PPU,,,"7,970","7,945"
+PHIN-99O,Nottingham University Hospitals NHS Trust,PHIN-NGM014,Nottingham Treatment Centre,NHS PPU,360,360,,
+PHIN-80N,Panacea,PHIN-WSX010,Panacea Medical Centre,IND,,,,
+PHIN-99O,Nottingham University Hospitals NHS Trust,PHIN-NGM004,Queen's Medical Centre,NHS PPU,60,60,"31,620","31,150"
+PHIN-22E,Nuffield Health,PHIN-BMH002,Nuffield Health Bournemouth Hospital,IND,"4,545","4,545",920,920
+PHIN-22E,Nuffield Health,PHIN-ESS003,Nuffield Health Brentwood Hospital,IND,"4,575","4,575",635,635
+PHIN-22E,Nuffield Health,PHIN-BNH004,Nuffield Health Brighton Hospital,IND,"3,580","3,580",710,710
+PHIN-22E,Nuffield Health,PHIN-BST007,"Nuffield Health Bristol, The Chesterfield Hospital",IND,"2,565","2,565","1,410","1,410"
+PHIN-22E,Nuffield Health,PHIN-CAM003,Nuffield Health Cambridge Hospital,IND,"5,850","5,850",805,805
+PHIN-22E,Nuffield Health,PHIN-VGL001,Nuffield Health Cardiff Bay & Vale Hospitals,IND,"4,560","4,560",,
+PHIN-22E,Nuffield Health,PHIN-GLS003,Nuffield Health Cheltenham Hospital,IND,"3,125","3,125",325,325
+PHIN-03S,Plymouth Hospitals NHS Trust,PHIN-PLY005,Rowans House,NHS PPU,,,"1,750","1,750"
+PHIN-03S,Plymouth Hospitals NHS Trust,PHIN-DEV026,Tavistock Hospital,NHS PPU,,,950,950
+PHIN-28E,Poole Hospital NHS Foundation Trust ,PHIN-POL001,Poole Hospital,NHS PPU,,,"31,900","31,875"
+PHIN-27Z,Portsmouth Hospitals NHS Trust,PHIN-POR001,Queen Alexandra Hospital,NHS PPU,,,"75,305","75,175"
+PHIN-22E,Nuffield Health,PHIN-CHW001,"Nuffield Health Chester, The Grosvenor Hospital",IND,"3,750","3,750",525,525
+PHIN-22E,Nuffield Health,PHIN-WSX008,Nuffield Health Chichester Hospital,IND,"2,785","2,785","1,365","1,365"
+PHIN-22E,Nuffield Health,PHIN-DER003,Nuffield Health Derby Hospital,IND,"4,370","4,370","1,345","1,345"
+PHIN-22E,Nuffield Health,PHIN-DEV004,Nuffield Health Exeter Hospital,IND,"2,830","2,830",570,570
+PHIN-22E,Nuffield Health,PHIN-GLG002,Nuffield Health Glasgow Hospital,IND,"2,610","2,610",,
+PHIN-22E,Nuffield Health,PHIN-SRY009,Nuffield Health Guildford Hospital,IND,"7,730","7,730",570,570
+PHIN-22E,Nuffield Health,PHIN-WSX009,Nuffield Health Haywards Heath Hospital,IND,"1,980","1,980",150,150
+PHIN-22E,Nuffield Health,PHIN-HEF001,Nuffield Health Hereford Hospital,IND,"1,590","1,590",785,785
+PHIN-22E,Nuffield Health,PHIN-SFK002,Nuffield Health Ipswich Hospital,IND,"3,115","3,115",110,110
+PHIN-22E,Nuffield Health,PHIN-LDS005,Nuffield Health Leeds Hospital,IND,"3,515","3,515","2,830","2,830"
+PHIN-22E,Nuffield Health,PHIN-LCE003,Nuffield Health Leicester Hospital,IND,"2,085","2,085","1,080","1,080"
+PHIN-22E,Nuffield Health,PHIN-NET003,Nuffield Health Newcastle Upon Tyne Hospital,IND,"3,645","3,645",715,715
+PHIN-53N,QSRC Ltd,PHIN-GRL253,The Queen Square Radiosurgery Centre,IND,,,,
+PHIN-22E,Nuffield Health,PHIN-STS002,Nuffield Health North Staffordshire Hospital,IND,"2,980","2,980",925,925
+PHIN-22E,Nuffield Health,PHIN-OXF005,"Nuffield Health Oxford, The Manor Hospital",IND,"9,205","9,205","1,880","1,880"
+PHIN-22E,Nuffield Health,PHIN-PLY003,Nuffield Health Plymouth Hospital,IND,"2,200","2,200","2,205","2,205"
+PHIN-22E,Nuffield Health,PHIN-SHR002,Nuffield Health Shrewsbury Hospital,IND,"2,540","2,540",535,535
+PHIN-22E,Nuffield Health,PHIN-SOM003,Nuffield Health Taunton Hospital,IND,"3,260","3,260",740,740
+PHIN-22E,Nuffield Health,PHIN-STT001,Nuffield Health Tees Hospital,IND,"1,270","1,270","2,765","2,765"
+PHIN-22E,Nuffield Health,PHIN-KEN006,Nuffield Health Tunbridge Wells Hospital,IND,"4,640","4,640",570,570
+PHIN-22E,Nuffield Health,PHIN-WAR002,Nuffield Health Warwickshire Hospital,IND,"4,385","4,385","1,170","1,170"
+PHIN-22E,Nuffield Health,PHIN-HAM005,Nuffield Health Wessex Hospital,IND,"4,565","4,565",780,780
+PHIN-22E,Nuffield Health,PHIN-SRY010,Nuffield Health Woking Hospital,IND,"2,360","2,360",620,620
+PHIN-22E,Nuffield Health,PHIN-WLV002,Nuffield Health Wolverhampton Hospital,IND,"2,100","2,100","1,275","1,275"
+PHIN-22E,Nuffield Health,PHIN-YOR002,Nuffield Health York Hospital,IND,"2,455","2,455",975,975
+PHIN-80Y,One Healthcare Group Ltd,PHIN-KEN012,One Ashford Hospital,IND,"1,650","1,650",425,425
+PHIN-80Y,One Healthcare Group Ltd,PHIN-HRT041,One Hatfield Hospital,IND,"1,270","1,270",,
+PHIN-71G,One Stop Doctors ,PHIN-HRT045,One Stop Doctors,IND,325,325,,
+PHIN-83E,Optegra ,PHIN-BIR012,Optegra Eye Hospital Birmingham,IND,115,115,,
+PHIN-83E,Optegra ,PHIN-HAM010,Optegra Eye Hospital Hampshire,IND,555,555,770,770
+PHIN-83E,Optegra ,PHIN-GRL119,Optegra Eye Hospital London,IND,355,355,,
+PHIN-83E,Optegra ,PHIN-MAN015,Optegra Eye Hospital Manchester,IND,390,390,,
+PHIN-83E,Optegra ,PHIN-SRY025,Optegra Eye Hospital Surrey,IND,900,900,,
+PHIN-84W,Orthoderm Clinic,PHIN-LSB002,Orthoderm Clinic,IND,755,755,,
+PHIN-52E,Papworth Hospital NHS Foundation Trust,PHIN-CAM002,Papworth Hospital,NHS PPU,770,770,"13,135","13,135"
+PHIN-48P,Phoenix Hospital Group,PHIN-ESS065,Phoenix Hospital Chelmsford,IND,410,410,,
+PHIN-48P,Phoenix Hospital Group,PHIN-GRL046,Weymouth Street Hospital,IND,"3,270","3,270",,
+PHIN-19B,Practice Plus Group,PHIN-DBY023,Barlborough NHS Treatment Centre,IND,665,665,"1,050","1,050"
+PHIN-19B,Practice Plus Group,PHIN-WIL013,Devizes NHS Treatment Centre,IND,40,40,"2,805","2,805"
+PHIN-19B,Practice Plus Group,PHIN-SGC005,Emersons Green NHS Treatment Centre,IND,600,600,"6,160","6,160"
+PHIN-19B,Practice Plus Group,PHIN-GRL266,North East London NHS Treatment Centre,IND,115,115,"4,845","4,845"
+PHIN-19B,Practice Plus Group,PHIN-PLY004,Peninsula NHS Treatment Centre,IND,645,645,"3,925","3,920"
+PHIN-19B,Practice Plus Group,PHIN-SOM023,Shepton Mallet NHS Treatment Centre,IND,740,740,"3,735","3,730"
+PHIN-19B,Practice Plus Group,PHIN-STH013,Southampton NHS Treatment Centre,IND,275,275,"9,835","9,835"
+PHIN-19B,Practice Plus Group,PHIN-MDW008,Will Adams NHS Treatment Centre,IND,90,90,"6,350","6,350"
+PHIN-84Z,Prem House Clinic ,PHIN-SFT002,Prem House Clinic ,IND,505,505,,
+PHIN-57X,Probus Surgical Centre ,PHIN-CON023,Probus Surgical Centre,IND,180,180,"2,005","2,005"
+PHIN-55Z,Regency International Clinic Ltd,PHIN-GRL271,Regency International Clinic,IND,,,,
+PHIN-66W,Ramsay Health Care UK,PHIN-SRY012,Ashtead Hospital,IND,"2,740","2,740","3,500","3,500"
+PHIN-66W,Ramsay Health Care UK,PHIN-STS050,Beacon Park Hospital,IND,310,310,,
+PHIN-66W,Ramsay Health Care UK,PHIN-RDG003,Berkshire Independent Hospital,IND,"1,340","1,340","2,025","2,025"
+PHIN-66W,Ramsay Health Care UK,PHIN-MIK003,Blakelands Hospital,IND,425,425,"2,270","2,270"
+PHIN-66W,Ramsay Health Care UK,PHIN-LIN003,Boston West Hospital,IND,150,150,"2,085","2,085"
+PHIN-66W,Ramsay Health Care UK,PHIN-YOR003,Clifton Park Hospital,IND,490,490,"1,555","1,555"
+PHIN-66W,Ramsay Health Care UK,PHIN-NTY001,Cobalt Hospital,IND,480,480,"3,455","3,455"
+PHIN-32U,Royal Brompton & Harefield NHS Foundation Trust,PHIN-GRL022,Harefield Hospital,NHS PPU,,,975,975
+PHIN-32U,Royal Brompton & Harefield NHS Foundation Trust,PHIN-GRL023,Royal Brompton Hospital,NHS PPU,,,"3,085","3,075"
+PHIN-36X,Royal Cornwall Hospitals NHS Trust,PHIN-CON005,Bodmin Treatment Centre,NHS PPU,,,,
+PHIN-36X,Royal Cornwall Hospitals NHS Trust,PHIN-CON001,Royal Cornwall Hospital,NHS PPU,,,"61,000","60,705"
+PHIN-36X,Royal Cornwall Hospitals NHS Trust,PHIN-CON002,St Michael's Hospital,NHS PPU,,,"3,490","3,485"
+PHIN-36X,Royal Cornwall Hospitals NHS Trust,PHIN-CON003,West Cornwall Hospital,NHS PPU,,,"11,915","11,910"
+PHIN-66W,Ramsay Health Care UK,PHIN-CON004,Duchy Hospital,IND,"2,650","2,650","1,900","1,900"
+PHIN-66W,Ramsay Health Care UK,PHIN-LAN006,Euxton Hall Hospital,IND,805,805,"3,340","3,340"
+PHIN-66W,Ramsay Health Care UK,PHIN-DEV025,Exeter Medical,IND,"1,630","1,630",,
+PHIN-66W,Ramsay Health Care UK,PHIN-PTE001,Fitzwilliam Hospital,IND,"3,045","3,045","5,560","5,560"
+PHIN-66W,Ramsay Health Care UK,PHIN-LAN007,Fulwood Hall Hospital,IND,930,930,"5,060","5,060"
+PHIN-66W,Ramsay Health Care UK,PHIN-OXF006,Horton NHS Treatment Centre,IND,195,195,"1,995","1,995"
+PHIN-46M,Royal Free London NHS Foundation Trust,PHIN-GRL275,Barnet Hospital,NHS PPU,,,"13,370","13,355"
+PHIN-46M,Royal Free London NHS Foundation Trust,PHIN-GRL098,Hadley Wood Hospital,NHS PPU,,,275,275
+PHIN-46M,Royal Free London NHS Foundation Trust,PHIN-GRL024,Royal Free Hospital,NHS PPU,,,"34,570","34,525"
+PHIN-66W,Ramsay Health Care UK,PHIN-TOB001,Mount Stuart Hospital,IND,"1,455","1,455","2,655","2,655"
+PHIN-37C,Royal Surrey County Hospital NHS Foundation Trust,PHIN-SRY003,Royal Surrey County Hospital,NHS PPU,,,"30,440","30,405"
+PHIN-38H,Royal United Hospitals Bath NHS Foundation Trust,PHIN-BAS007,Royal National Hospital for Rheumatic Disease,NHS PPU,,,"4,660","4,660"
+PHIN-38H,Royal United Hospitals Bath NHS Foundation Trust,PHIN-BAS003,Royal United Hospital,NHS PPU,,,"26,840","26,770"
+PHIN-38H,Royal United Hospitals Bath NHS Foundation Trust,PHIN-BAS008,Sulis Hospital Bath,NHS PPU,,,,
+PHIN-19U,Rutherford Cancer Care Ltd,PHIN-NBL040,The Rutherford Cancer Centre North East,IND,,,,
+PHIN-19U,Rutherford Cancer Care Ltd,PHIN-NWP005,The Rutherford Cancer Centre South Wales,IND,,,,
+PHIN-19U,Rutherford Cancer Care Ltd,PHIN-RDG010,The Rutherford Cancer Centre Thames Valley,IND,,,,
+PHIN-66W,Ramsay Health Care UK,PHIN-WIL002,New Hall Hospital,IND,"1,600","1,600","4,875","4,875"
+PHIN-66W,Ramsay Health Care UK,PHIN-SRY011,North Downs Hospital,IND,775,775,"1,340","1,340"
+PHIN-66W,Ramsay Health Care UK,PHIN-NTT002,Nottingham Woodthorpe Hospital,IND,"1,035","1,035","7,500","7,500"
+PHIN-66W,Ramsay Health Care UK,PHIN-SLF001,Oaklands Hospital,IND,970,970,"5,340","5,340"
+PHIN-66W,Ramsay Health Care UK,PHIN-ESS004,Oaks Hospital,IND,"3,330","3,330","4,275","4,275"
+PHIN-29J,Sheffield Children's NHS Foundation Trust,PHIN-SHF007,Sheffield Children's Hospital,NHS PPU,,,"15,745","15,745"
+PHIN-60E,Sheffield Teaching Hospitals NHS Foundation Trust,PHIN-SHF008,Charles Clifford Dental Hospital,NHS PPU,,,"3,840","3,840"
+PHIN-60E,Sheffield Teaching Hospitals NHS Foundation Trust,PHIN-SHF001,Northern General Hospital,NHS PPU,,,"35,215","35,215"
+PHIN-60E,Sheffield Teaching Hospitals NHS Foundation Trust,PHIN-SHF002,Royal Hallamshire Hospital,NHS PPU,,,"62,220","62,220"
+PHIN-60E,Sheffield Teaching Hospitals NHS Foundation Trust,PHIN-SHF003,Sheffield Teaching Hospitals,NHS PPU,,,,
+PHIN-60E,Sheffield Teaching Hospitals NHS Foundation Trust,PHIN-SHF004,Weston Park Hospital,NHS PPU,,,"16,375","16,375"
+PHIN-81T,Sherwood Forest Hospitals NHS Foundation Trust,PHIN-NTT004,King's Mill Hospital,NHS PPU,,,"33,625","33,565"
+PHIN-81T,Sherwood Forest Hospitals NHS Foundation Trust,PHIN-NTT006,Newark Hospital,NHS PPU,,,"6,780","6,780"
+PHIN-97J,Shrewsbury And Telford Hospital NHS Trust,PHIN-SHR003,Royal Shrewsbury Hospital,NHS PPU,,,"59,200","59,150"
+PHIN-97J,Shrewsbury And Telford Hospital NHS Trust,PHIN-TFW001,The Princess Royal Hospital,NHS PPU,,,"27,295","27,280"
+PHIN-66W,Ramsay Health Care UK,PHIN-DNC001,Park Hill Hospital,IND,900,900,"2,045","2,045"
+PHIN-20E,Soul Care Aesthetics,PHIN-STS051,Soul Care Aesthetics,IND,,,,
+PHIN-78D,South Eastern Health & Social Care Trust,PHIN-CSR001,Ulster Hospital,NHS PPU,,,,
+PHIN-31T,South Tees Hospitals NHS Foundation Trust,PHIN-NYK002,Friarage Hospital,NHS PPU,,,"15,620","15,610"
+PHIN-66W,Ramsay Health Care UK,PHIN-HRT004,Pinehill Hospital,IND,"2,935","2,935","3,215","3,215"
+PHIN-09N,South Tyneside & Sunderland NHS Foundation Trust,PHIN-STY012,South Tyneside Hospital,NHS PPU,,,,
+PHIN-09N,South Tyneside & Sunderland NHS Foundation Trust,PHIN-SND002,Sunderland Eye Infirmary,NHS PPU,,,"12,405","12,405"
+PHIN-09N,South Tyneside & Sunderland NHS Foundation Trust,PHIN-SND003,Sunderland Royal Hospital,NHS PPU,,,"49,780","49,765"
+PHIN-89T,South West Eye Surgeons,PHIN-BST024,Bristol Eye Hospital - SWES,IND,,,,
+PHIN-89T,South West Eye Surgeons,PHIN-BST022,SWES 2 Clifton Park,IND,,,,
+PHIN-01F,Southend University Hospital NHS Foundation Trust,PHIN-SOS003,Southend Hospital,NHS PPU,,,"41,845","41,690"
+PHIN-66W,Ramsay Health Care UK,PHIN-LAN003,Renacres Hospital,IND,875,875,"4,090","4,090"
+PHIN-66W,Ramsay Health Care UK,PHIN-HRT005,Rivers Hospital,IND,"5,010","5,010","6,275","6,275"
+PHIN-86V,Spamedica Ltd ,PHIN-LIV014,Manchester Spamedica,IND,,,,
+PHIN-86V,Spamedica Ltd ,PHIN-ESS001,SpaMedica Chelmsford,IND,,,,
+PHIN-66W,Ramsay Health Care UK,PHIN-STS003,Rowley Hall Hospital,IND,620,620,"3,075","3,075"
+PHIN-66W,Ramsay Health Care UK,PHIN-ESS005,Springfield Hospital,IND,"4,785","4,785","6,295","6,295"
+PHIN-66W,Ramsay Health Care UK,PHIN-DUD025,Stourside Hospital,IND,310,310,,
+PHIN-66W,Ramsay Health Care UK,PHIN-MDB002,Tees Valley Hospital,IND,545,545,20,20
+PHIN-66W,Ramsay Health Care UK,PHIN-BIR004,The Westbourne Centre,IND,220,220,"1,640","1,640"
+PHIN-66W,Ramsay Health Care UK,PHIN-DUD001,West Midlands Private Hospital,IND,"1,305","1,305","1,770","1,770"
+PHIN-66W,Ramsay Health Care UK,PHIN-GRL249,West Valley Hospital,IND,140,140,,
+PHIN-66W,Ramsay Health Care UK,PHIN-GLS004,Winfield Hospital,IND,"2,395","2,395","2,730","2,730"
+PHIN-66W,Ramsay Health Care UK,PHIN-NTH003,Woodland Hospital,IND,"2,490","2,490","7,730","7,730"
+PHIN-66W,Ramsay Health Care UK,PHIN-BRD002,Yorkshire Clinic,IND,"2,535","2,535","10,000","10,000"
+PHIN-59G,Regent’s Park Heart Clinics Ltd. (RPHC),PHIN-CAM008,Cambridge Heart Clinic,IND,40,40,,
+PHIN-59G,Regent’s Park Heart Clinics Ltd. (RPHC),PHIN-BMH007,Dorset Heart Clinic,IND,140,140,,
+PHIN-59G,Regent’s Park Heart Clinics Ltd. (RPHC),PHIN-PLY010,Peninsula Heart Clinic,IND,80,80,,
+PHIN-51A,Royal Berkshire NHS Foundation Trust,PHIN-WNM001,Prince Charles Eye Unit,NHS PPU,*,*,"3,225","3,225"
+PHIN-51A,Royal Berkshire NHS Foundation Trust,PHIN-BRC005,Royal Berkshire Bracknell Healthspace,NHS PPU,0,0,"7,740","7,740"
+PHIN-51A,Royal Berkshire NHS Foundation Trust,PHIN-RDG001,Royal Berkshire Hospital,NHS PPU,260,260,"96,030","95,460"
+PHIN-51A,Royal Berkshire NHS Foundation Trust,PHIN-WBK002,West Berkshire Community Hospital,NHS PPU,0,0,"5,915","5,845"
+PHIN-58C,Royal Devon And Exeter NHS Foundation Trust,PHIN-DEV024,Axminster Hospital,NHS PPU,*,*,,
+PHIN-58C,Royal Devon And Exeter NHS Foundation Trust,PHIN-DEV020,Exmouth Hospital,NHS PPU,0,0,10,10
+PHIN-58C,Royal Devon And Exeter NHS Foundation Trust,PHIN-DEV005,Heavitree Hospital,NHS PPU,15,15,"20,240","20,220"
+PHIN-58C,Royal Devon And Exeter NHS Foundation Trust,PHIN-DEV003,Royal Devon & Exeter Hospital,NHS PPU,270,270,"42,480","42,240"
+PHIN-58C,Royal Devon And Exeter NHS Foundation Trust,PHIN-DEV021,Tiverton and District Hospital,NHS PPU,*,*,195,195
+PHIN-58C,Royal Devon And Exeter NHS Foundation Trust,PHIN-DEV022,Victoria Hospital Sidmouth,NHS PPU,0,0,795,795
+PHIN-35E,Salisbury NHS Foundation Trust,PHIN-WIL001,Salisbury District Hospital,NHS PPU,85,85,"32,130","32,035"
+PHIN-16O,Sandwell And West Birmingham Hospitals NHS Trust,PHIN-SAW001,Sandwell General Hospital,NHS PPU,0,0,"7,270","7,165"
+PHIN-25Y,Schoen Clinic Ltd,PHIN-GRL262,Schoen Clinic London,IND,"2,595","2,595",,
+PHIN-42A,Somerset NHS Foundation Trust,PHIN-SOM001,Musgrove Park Hospital,NHS PPU,170,170,"37,000","36,890"
+PHIN-31T,South Tees Hospitals NHS Foundation Trust,PHIN-MDB001,James Cook University Hospital,NHS PPU,160,160,"50,200","49,875"
+PHIN-96D,Spencer Private Hospitals Ltd,PHIN-KEN014,Spencer Private Hospitals Margate,IND,360,360,,
+PHIN-59H,Spire Healthcare,PHIN-KEN008,Spire Alexandra Hospital,IND,"1,520","1,520","1,600","1,600"
+PHIN-59H,Spire Healthcare,PHIN-BST008,Spire Bristol Hospital,IND,"5,625","5,625","1,720","1,720"
+PHIN-59H,Spire Healthcare,PHIN-HRT006,Spire Bushey Hospital,IND,"7,300","7,195",875,875
+PHIN-59H,Spire Healthcare,PHIN-CAM004,Spire Cambridge Lea Hospital,IND,"6,060","6,060","1,930","1,930"
+PHIN-59H,Spire Healthcare,PHIN-CRF001,Spire Cardiff Hospital,IND,"6,580","6,580",,
+PHIN-59H,Spire Healthcare,PHIN-WRT001,Spire Cheshire Hospital,IND,"3,760","3,760","3,090","3,090"
+PHIN-59H,Spire Healthcare,PHIN-HAM007,Spire Clare Park Hospital,IND,"3,690","3,690","1,700","1,700"
+PHIN-59H,Spire Healthcare,PHIN-RDG004,Spire Dunedin Hospital,IND,"3,740","3,730",835,835
+PHIN-59H,Spire Healthcare,PHIN-CLD001,Spire Elland Hospital,IND,"1,845","1,845","3,020","3,020"
+PHIN-59H,Spire Healthcare,PHIN-BPL001,Spire Fylde Coast Hospital,IND,"1,420","1,420","3,510","3,510"
+PHIN-59H,Spire Healthcare,PHIN-SRY013,Spire Gatwick Park Hospital,IND,"3,760","3,760","1,545","1,545"
+PHIN-59H,Spire Healthcare,PHIN-HRT007,Spire Harpenden Hospital,IND,"7,380","7,350","1,855","1,855"
+PHIN-59H,Spire Healthcare,PHIN-ESS007,Spire Hartswood Hospital,IND,"5,505","5,505","2,165","2,165"
+PHIN-88L,St George's University Hospitals NHS Foundation Trust,PHIN-GRL026,Queen Mary's Hospital,NHS PPU,,,"3,995","3,995"
+PHIN-88L,St George's University Hospitals NHS Foundation Trust,PHIN-GRL027,St George's Hospital,NHS PPU,,,"70,180","70,040"
+PHIN-59H,Spire Healthcare,PHIN-ERY002,Spire Hull & East Riding Hospital,IND,"5,255","5,250","3,415","3,415"
+PHIN-59H,Spire Healthcare,PHIN-LDS006,Spire Leeds Hospital,IND,"6,215","6,190","3,205","3,205"
+PHIN-59H,Spire Healthcare,PHIN-LEC001,Spire Leicester Hospital,IND,"6,425","6,345","1,160","1,160"
+PHIN-06V,Surrey and Sussex Healthcare NHS Trust,PHIN-SRY016,East Surrey Hospital,NHS PPU,,,"34,335","33,020"
+PHIN-59H,Spire Healthcare,PHIN-STS004,Spire Little Aston Hospital,IND,"6,185","6,120","1,820","1,820"
+PHIN-90H,The Belvedere Private Hospital,PHIN-GRL092,The Belvedere Clinic,IND,,,,
+PHIN-59H,Spire Healthcare,PHIN-LIV003,Spire Liverpool Hospital,IND,"2,155","2,155","4,630","4,630"
+PHIN-33F,The Clatterbridge Cancer Centre NHS Foundation Trust,PHIN-WRL004,Clatterbridge Private Clinic,NHS PPU,,,"3,470","3,470"
+PHIN-92A,The Cooden Medical Group,PHIN-KEN082,The Cooden Canterbury Clinic,IND,,,,
+PHIN-92A,The Cooden Medical Group,PHIN-ESX024,The Cooden Clinic - Bexhill,IND,,,,
+PHIN-59H,Spire Healthcare,PHIN-GRL057,Spire London East,IND,"2,505","2,505","2,695","2,695"
+PHIN-59H,Spire Healthcare,PHIN-MAN021,Spire Manchester Hospital,IND,"8,265","8,265","1,535","1,535"
+PHIN-62Z,The Harley Street Dermatology Clinic,PHIN-GRL254,Harley Street Skin Clinic,IND,,,,
+PHIN-59H,Spire Healthcare,PHIN-LDS007,Spire Methley Park Hospital,IND,"1,580","1,580","2,550","2,550"
+PHIN-09A,The Maxillofacial Clinic,PHIN-GRL267,Maxillofacial Clinic,IND,,,,
+PHIN-78I,The Medical Eye Clinic Limited,PHIN-DEV023,The Medical Eye Clinic,IND,,,,
+PHIN-59H,Spire Healthcare,PHIN-BNH005,Spire Montefiore Hospital,IND,"3,380","3,380","1,605","1,605"
+PHIN-59H,Spire Healthcare,PHIN-EDH001,Spire Murrayfield Hospital Edinburgh,IND,"6,270","6,240",,
+PHIN-59H,Spire Healthcare,PHIN-WRL003,Spire Murrayfield Hospital Wirral,IND,"2,710","2,710","1,615","1,615"
+PHIN-59H,Spire Healthcare,PHIN-NFK004,Spire Norwich Hospital,IND,"5,670","5,670",635,635
+PHIN-59H,Spire Healthcare,PHIN-NTT008,Spire Nottingham Hospital,IND,"3,770","3,770","2,175","2,175"
+PHIN-59H,Spire Healthcare,PHIN-SOL001,Spire Parkway Hospital,IND,"5,810","5,775","1,715","1,715"
+PHIN-59H,Spire Healthcare,PHIN-HAM006,Spire Portsmouth Hospital,IND,"5,030","4,980",595,595
+PHIN-59H,Spire Healthcare,PHIN-CHE002,Spire Regency Hospital,IND,"1,775","1,775","1,695","1,695"
+PHIN-59H,Spire Healthcare,PHIN-MLN001,Spire Shawfair Park Hospital,IND,"4,855","4,855",,
+PHIN-59H,Spire Healthcare,PHIN-WOR002,Spire South Bank Hospital,IND,"3,320","3,320","1,425","1,425"
+PHIN-59H,Spire Healthcare,PHIN-STH005,Spire Southampton Hospital,IND,"6,615","6,560","2,560","2,555"
+PHIN-59H,Spire Healthcare,PHIN-GRL088,Spire St Anthony's Hospital,IND,"3,905","3,905","1,060","1,060"
+PHIN-59H,Spire Healthcare,PHIN-ESX005,Spire Sussex Hospital,IND,"1,290","1,290","1,480","1,480"
+PHIN-59H,Spire Healthcare,PHIN-BKM004,Spire Thames Valley Hospital,IND,"3,080","3,080",570,570
+PHIN-59H,Spire Healthcare,PHIN-KEN007,Spire Tunbridge Wells Hospital,IND,"2,185","2,185",470,470
+PHIN-76L,The Thornbury Radiosurgery Centre Limited,PHIN-SHF010,Thornbury Radiosurgery Centre,IND,,,,
+PHIN-61A,The Walton Centre NHS Foundation Trust,PHIN-LIV008,The Walton Centre,NHS PPU,,,"10,075","10,065"
+PHIN-15G,Torbay and South Devon NHS Foundation Trust,PHIN-TOB002,Torbay Hospital,NHS PPU,,,"30,875","30,725"
+PHIN-59H,Spire Healthcare,PHIN-SND001,Spire Washington Hospital,IND,"3,110","3,110","4,735","4,735"
+PHIN-59H,Spire Healthcare,PHIN-SOS002,Spire Wellesley Hospital,IND,"3,885","3,885","2,015","2,015"
+PHIN-59H,Spire Healthcare,PHIN-WRX001,Spire Yale Hospital,IND,"3,320","3,320",,
+PHIN-14M,St Helens and Knowsley Teaching Hospitals NHS Trust,PHIN-SHN001,St Helens Hospital,NHS PPU,95,95,"23,745","23,735"
+PHIN-82Z,United Lincolnshire Hospitals NHS Trust,PHIN-LIN001,Pilgrim Hospital,NHS PPU,,,"16,225","16,200"
+PHIN-14M,St Helens and Knowsley Teaching Hospitals NHS Trust,PHIN-KWL001,Whiston Hospital,NHS PPU,145,145,"19,375","19,215"
+PHIN-12X,St Joseph’s Hospital,PHIN-NWP003,St Joseph's Hospital,IND,"4,695","4,695",,
+PHIN-43F,Tetbury Hospital,PHIN-GLS006,Tetbury Hospital,IND,345,345,"1,555","1,555"
+PHIN-64R,The Cadogan Clinic,PHIN-GRL093,The Cadogan Clinic,IND,"1,535","1,535",,
+PHIN-29K,The Grafton Suite,PHIN-WAR004,The Grafton Suite,IND,345,345,,
+PHIN-45B,The London Clinic,PHIN-GRL095,The London Clinic,IND,"20,045","20,045",,
+PHIN-48S,The Private Clinic of Harley Street,PHIN-GRL128,The Private Clinic of Harley Street,IND,990,990,,
+PHIN-41H,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,PHIN-SHR001,Robert Jones and Agnes Hunt Orthopaedic Hospital,NHS PPU,745,745,"10,400","10,305"
+PHIN-69U,The Royal Marsden NHS Foundation Trust,PHIN-GRL029,Royal Marsden Chelsea Hospital,NHS PPU,"9,775","9,775","18,160","18,160"
+PHIN-69U,The Royal Marsden NHS Foundation Trust,PHIN-GRL030,Royal Marsden Sutton Hospital,NHS PPU,"5,280","5,280","31,320","31,320"
+PHIN-11Z,University Hospital Southampton NHS Foundation Trust,PHIN-STH002,Royal South Hants Hospital,NHS PPU,,,,
+PHIN-22H,The Royal Orthopaedic Hospital NHS Foundation Trust,PHIN-BIR009,Royal Orthopaedic Hospital,NHS PPU,135,135,"5,030","5,030"
+PHIN-14X,Transform Medical Group,PHIN-WOR007,Burcot Hall Hospital,IND,"5,125","5,125",,
+PHIN-34C,University Hospitals Birmingham NHS Foundation Trust,PHIN-BIR042,Good Hope Hospital - UHB,NHS PPU,,,,
+PHIN-14X,Transform Medical Group,PHIN-MAN008,Transform Pines Hospital,IND,"1,990","1,990",,
+PHIN-34C,University Hospitals Birmingham NHS Foundation Trust,PHIN-BIR043,Heartlands Hospital - UHB,NHS PPU,,,,
+PHIN-61X,Tyneside Surgical Services Ltd ,PHIN-GAT001,Tyneside Surgical Services,IND,,,,
+PHIN-07M,Ulster Independent Clinic,PHIN-BFS007,Ulster Independent Clinic,IND,"5,280","5,280",,
+PHIN-34C,University Hospitals Birmingham NHS Foundation Trust,PHIN-SOL012,Solihull Hospital - UHB,NHS PPU,,,,
+PHIN-52Y,University College London Hospitals NHS Foundation Trust,PHIN-GRL136,Eastman Dental Hospital,NHS PPU,,,,
+PHIN-52Y,University College London Hospitals NHS Foundation Trust,PHIN-GRL033,Hospital for Tropical Diseases,NHS PPU,0,0,"1,655","1,655"
+PHIN-52Y,University College London Hospitals NHS Foundation Trust,PHIN-GRL240,National Hospital for Neurology and Neurosurgery - Cleveland Street,NHS PPU,0,0,"1,525","1,525"
+PHIN-52Y,University College London Hospitals NHS Foundation Trust,PHIN-GRL031,National Hospital for Neurology and Neurosurgery - Queen Square,NHS PPU,260,260,"11,975","11,970"
+PHIN-52Y,University College London Hospitals NHS Foundation Trust,PHIN-GRL064,"Royal National Throat, Nose and Ear Hospital",NHS PPU,0,0,375,375
+PHIN-52Y,University College London Hospitals NHS Foundation Trust,PHIN-GRL032,The Heart Hospital,NHS PPU,80,80,"4,750","4,735"
+PHIN-52Y,University College London Hospitals NHS Foundation Trust,PHIN-GRL087,UCH Macmillan Cancer Centre,NHS PPU,185,185,"30,355","30,355"
+PHIN-30D,University Hospitals Of Leicester NHS Trust,PHIN-LCE001,Glenfield Hospital,NHS PPU,,,"14,035","13,970"
+PHIN-30D,University Hospitals Of Leicester NHS Trust,PHIN-LCE002,Leicester General Hospital,NHS PPU,,,"32,320","32,295"
+PHIN-30D,University Hospitals Of Leicester NHS Trust,PHIN-LCE004,Leicester Royal Infirmary,NHS PPU,,,"42,530","42,505"
+PHIN-64M,University Hospitals Of Morecambe Bay NHS Foundation Trust,PHIN-CMA032,Furness General Hospital,NHS PPU,,,"17,255","17,220"
+PHIN-64M,University Hospitals Of Morecambe Bay NHS Foundation Trust,PHIN-CMA031,Westmorland General Hospital,NHS PPU,,,"21,750","21,730"
+PHIN-52Y,University College London Hospitals NHS Foundation Trust,PHIN-GRL072,University College Hospital,NHS PPU,155,155,"23,305","23,300"
+PHIN-34C,University Hospitals Birmingham NHS Foundation Trust,PHIN-BIR008,Heartlands Hospital,NHS PPU,65,65,"14,615","14,615"
+PHIN-66L,Veincentre Limited ,PHIN-BST014,Veincentre Bristol,IND,,,,
+PHIN-66L,Veincentre Limited ,PHIN-GRL129,Veincentre London,IND,,,,
+PHIN-66L,Veincentre Limited ,PHIN-MAN018,Veincentre Manchester,IND,,,,
+PHIN-66L,Veincentre Limited ,PHIN-NGM008,Veincentre Nottingham,IND,,,,
+PHIN-66L,Veincentre Limited ,PHIN-OXF008,Veincentre Oxfordshire,IND,,,,
+PHIN-66L,Veincentre Limited ,PHIN-STE005,Veincentre Stoke-on-Trent,IND,,,,
+PHIN-78K,University Hospitals of Derby and Burton NHS Foundation Trust,PHIN-STS001,Queen's Hospital Burton,NHS PPU,105,100,,
+PHIN-78K,University Hospitals of Derby and Burton NHS Foundation Trust,PHIN-DER002,Royal Derby Hospital,NHS PPU,965,965,"64,275","64,210"
+PHIN-20X,Velindre NHS Trust,PHIN-CRF003,Velindre Hospital,NHS PPU,320,320,,
+PHIN-87A,West Hertfordshire Hospitals NHS Trust,PHIN-HRT001,Hemel Hempstead Hospital,NHS PPU,,,"7,545","7,545"
+PHIN-87A,West Hertfordshire Hospitals NHS Trust,PHIN-HRT002,St Albans City Hospital,NHS PPU,,,"6,000","5,995"
+PHIN-87A,West Hertfordshire Hospitals NHS Trust,PHIN-HRT003,Watford General Hospital,NHS PPU,,,"19,020","18,990"
+PHIN-02G,West Suffolk NHS Foundation Trust,PHIN-SFK004,West Suffolk Hospital,NHS PPU,,,"28,335","28,100"
+PHIN-56U,Warrington and Halton Hospitals NHS Foundation Trust,PHIN-HAL005,Halton General Hospital,NHS PPU,65,65,,
+PHIN-56U,Warrington and Halton Hospitals NHS Foundation Trust,PHIN-WRT002,Warrington Hospital,NHS PPU,*,*,"11,355","11,345"
+PHIN-93I,Western Health and Social Care Trust,PHIN-DRY001,Altnagelvin Area Hospital,NHS PPU,55,55,,
+PHIN-93I,Western Health and Social Care Trust,PHIN-FER002,South West Acute Hospital,NHS PPU,*,*,,
+PHIN-93I,Western Health and Social Care Trust,PHIN-OMH001,Tyrone Hospitals,NHS PPU,*,*,,
+PHIN-46G,Weston Area Health NHS Trust,PHIN-NSM001,Weston General Hospital,NHS PPU,,,"13,480","13,465"
+PHIN-11Y,Western Sussex Hospitals NHS Foundation Trust,PHIN-WSX005,St Richard's Hospital,NHS PPU,320,320,"21,250","21,230"
+PHIN-11Y,Western Sussex Hospitals NHS Foundation Trust,PHIN-WSX006,Worthing Hospital,NHS PPU,180,180,"25,265","25,240"
+PHIN-85O,Worcestershire Acute Hospitals NHS Trust ,PHIN-WOR005,Worcestershire Royal Hospital,NHS PPU,,,"28,475","28,395"
+PHIN-89D,"Wrightington, Wigan And Leigh NHS Foundation Trust",PHIN-WGN001,Leigh Infirmary,NHS PPU,,,"10,705","10,705"
+PHIN-89D,"Wrightington, Wigan And Leigh NHS Foundation Trust",PHIN-WGN002,Royal Albert Edward Infirmary,NHS PPU,,,"12,545","12,500"
+PHIN-89D,"Wrightington, Wigan And Leigh NHS Foundation Trust",PHIN-LAN002,Wrightington Hospital,NHS PPU,,,"9,520","9,520"
+PHIN-11E,Yeovil District Hospital NHS Foundation Trust,PHIN-SOM002,Yeovil District Hospital,NHS PPU,400,400,"18,050","17,915"
+PHIN-89U,York Teaching Hospital NHS Foundation Trust,PHIN-ERY017,Bridlington Hospital,NHS PPU,*,*,,
+PHIN-89U,York Teaching Hospital NHS Foundation Trust,PHIN-NYK003,Scarborough General Hospital,NHS PPU,20,20,"17,830","17,475"
+PHIN-89U,York Teaching Hospital NHS Foundation Trust,PHIN-YOR001,The York Hospital,NHS PPU,90,90,"42,500","41,680"
+PHIN-38L,Zenith Cosmetic Clinics Ltd,PHIN-NGM013,Zenith Cosmetic Clinic,IND,,,,

@@ -1,0 +1,147 @@
+********************************************************************
+
+EDINA DIGIMAP:
+
+DIGITAL DATA SUPPLY
+
+********************************************************************
+
+
+This data is distributed under licence by:
+
+    EDINA
+    University of Edinburgh
+    https://edina.ac.uk
+
+    Tel:    0131 650 3302
+    Fax:    0131 650 3308
+    Email:  digimap@ed.ac.uk
+		
+
+
+---------------------------------------------------------
+
+CONTENTS
+
+You will have received the data files listed below, each product and area has
+its own folder. Note that each data folder contains a conditions.txt file
+which states the conditions for use of the data within. These conditions can
+vary between different data products.
+
+
+
+-------------------------------------------------------------------------------
+Folder:           codepoint-open_5265476
+Extent:           0.0, 479564.0380452218 - 558725.8775892778, 1230887.5336109134
+Date Ordered:     16 November 2023 at 10:39:09
+Product:          Code-Point Open®
+Version:          August 2023
+Format:           CSV
+Theme:            N/A
+Area:             26 tiles
+Tiles:
+ 
+Tile Name:        g
+Extent:           220649.90207976208, 644404.330394308 - 282487.4315797621, 721365.4504943079
+Last Amended:     21 July 2023
+  
+Tile Name:        ne
+Extent:           356132.30083417136, 543205.4882565868 - 440625.29593417136, 641062.8969565869
+Last Amended:     21 July 2023
+  
+Tile Name:        ab
+Extent:           297343.79487975006, 763654.9952654553 - 414219.10257975006, 868948.7952654554
+Last Amended:     21 July 2023
+  
+Tile Name:        bd
+Extent:           374205.837509406, 424221.4271139538 - 423988.41990940593, 484070.3555139538
+Last Amended:     21 July 2023
+  
+Tile Name:        ca
+Extent:           293890.4004990309, 493966.8327319253 - 388696.3097990309, 583121.6124319253
+Last Amended:     21 July 2023
+  
+Tile Name:        sr
+Extent:           432438.32128144475, 538762.7100793371 - 445788.6994814447, 564495.5040793371
+Last Amended:     21 July 2023
+  
+Tile Name:        dd
+Extent:           317997.61519998533, 721779.8119075872 - 387135.0991999853, 787997.5073075872
+Last Amended:     21 July 2023
+  
+Tile Name:        td
+Extent:           314342.035521101, 577717.2793902992 - 414160.99962110096, 674057.2023902992
+Last Amended:     21 July 2023
+  
+Tile Name:        dg
+Extent:           195871.90212586877, 530248.9970156659 - 346091.5066258688, 620608.9018156659
+Last Amended:     21 July 2023
+  
+Tile Name:        dh
+Extent:           389594.6833795699, 534306.5256363389 - 440734.5511795699, 557792.4028363388
+Last Amended:     21 July 2023
+  
+Tile Name:        dl
+Extent:           375622.7100934137, 475299.80613451015 - 453239.1757934137, 545716.6495345102
+Last Amended:     21 July 2023
+  
+Tile Name:        ts
+Extent:           431004.2412828702, 492544.81973594637 - 481732.5650828702, 540752.1005359463
+Last Amended:     21 July 2023
+  
+Tile Name:        eh
+Extent:           286152.8394357911, 625327.1611831732 - 375765.10223579104, 687572.8035831732
+Last Amended:     21 July 2023
+  
+Tile Name:        fk
+Extent:           223080.19155992856, 668272.1183724242 - 303838.78405992856, 742037.0033724242
+Last Amended:     21 July 2023
+  
+Tile Name:        yo
+Extent:           432038.9964484482, 423464.2638241944 - 525946.1033484482, 516379.69712419435
+Last Amended:     21 July 2023
+  
+Tile Name:        ze
+Extent:           393570.9960355594, 1069031.0022828544 - 470332.0037355594, 1220301.5015828544
+Last Amended:     21 July 2023
+  
+Tile Name:        hg
+Extent:           399506.29403185187, 446561.06250771246 - 442646.89423185185, 488868.6021077125
+Last Amended:     21 July 2023
+  
+Tile Name:        hs
+Extent:           5512.998568667554, 779333.9971991832 - 181981.00246866758, 1033818.5017991832
+Last Amended:     21 July 2023
+  
+Tile Name:        iv
+Extent:           112562.99677463672, 799009.895052293 - 338488.0679746367, 974998.9986522929
+Last Amended:     21 July 2023
+  
+Tile Name:        ka
+Extent:           186129.99962805843, 572014.501815966 - 277005.1997280584, 669392.3277159659
+Last Amended:     21 July 2023
+  
+Tile Name:        kw
+Extent:           256169.19653318822, 894635.0026746358 - 379191.99703318824, 1057121.1014746358
+Last Amended:     21 July 2023
+  
+Tile Name:        ky
+Extent:           296199.89991011546, 680084.0972033249 - 366313.79701011546, 725886.9763033249
+Last Amended:     21 July 2023
+  
+Tile Name:        la
+Extent:           306336.6005472476, 448432.8566613856 - 381586.3215472476, 511742.9443613856
+Last Amended:     21 July 2023
+  
+Tile Name:        ml
+Extent:           258898.5013750212, 601541.7997476537 - 317210.7643750212, 673143.9538476536
+Last Amended:     21 July 2023
+  
+Tile Name:        pa
+Extent:           84084.00331729653, 603664.5020653275 - 252201.41751729653, 765872.5005653275
+Last Amended:     21 July 2023
+  
+Tile Name:        ph
+Extent:           115304.99903578535, 703933.5004007014 - 333589.5040357853, 841962.2101007014
+Last Amended:     21 July 2023
+     
